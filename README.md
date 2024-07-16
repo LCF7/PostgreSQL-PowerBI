@@ -33,18 +33,32 @@ The final output will be a real-time dashboard connected to PostgreSQL, facilita
 - **Connect to PostgreSQL:** Establish a connection between Power BI and the PostgreSQL database.
 - **Create Data Model:** Design a data model that includes relationships, calculated columns, and measures.
 - **Optimize Model:** Ensure the model is efficient and performs well with large datasets.
-![Database Schema](https://drive.google.com/uc?export=view&id=1caG1gSeWVgkQ7WcgfF0UcW8tZIfazT9o) 
-
+![Data Modeling](https://drive.google.com/uc?export=view&id=1caG1gSeWVgkQ7WcgfF0UcW8tZIfazT9o) 
 
 ### 5. Dashboard Development
 - **Design Dashboard:** Create an interactive dashboard in Power BI that provides key business metrics and insights.
 - **Real-time Updates:** Set up real-time data refresh to ensure the dashboard displays the most current data.
 - **User Interface:** Design an intuitive and user-friendly interface for stakeholders.
+![Data Modeling](https://drive.google.com/uc?export=view&id=1caG1gSeWVgkQ7WcgfF0UcW8tZIfazT9o)
+
+![Data Modeling](https://drive.google.com/uc?export=view&id=1d9_QvCWrbdEemWYaEl962mzaHgMb9vx3) 
+
+![Data Modeling](https://drive.google.com/uc?export=view&id=1YCLgmERdKjEfia0nlUPVekaAk8kmid5Z) 
+
+![Data Modeling](https://drive.google.com/uc?export=view&id=1BCzRT2ZcBi7XBxa2QHj1YLawHVYwlXzw) 
+
+![Data Modeling](https://drive.google.com/uc?export=view&id=1neCPog84XpMo9FZj7OtRqAj6bs-SSegv) 
+
+![Data Modeling](https://drive.google.com/uc?export=view&id=1GXBP5SLwd3DcPw4-PKgUZ7ygjYnjjrOv) 
+
+![Data Modeling](https://drive.google.com/uc?export=view&id=18EjSdFJy7BPga_8tuYu5qgWfm7-ZFjXb) 
+
 
 ### 6. Business Analysis
 - **Analyze Data:** Use the dashboard to perform in-depth analysis of sales, customer behavior, product performance, and other key metrics.
 - **Generate Insights:** Identify trends, patterns, and opportunities for business growth.
 - **Report Findings:** Present the analysis and insights to stakeholders for informed decision-making.
+
 
 ## Additional Considerations
 
