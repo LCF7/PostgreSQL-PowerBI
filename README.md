@@ -2,7 +2,8 @@
 
 ## Project Overview
 
-This project aims to develop a comprehensive data pipeline and business intelligence solution for an e-commerce platform. The goal is to create a  data warehouse in a PostgreSQL, perform necessary transformations, and create an analytical data model in Power BI. The final output will be a real-time dashboard connected to PostgreSQL, facilitating advanced business analysis and decision-making.
+This project aims to develop a comprehensive data pipeline and business intelligence solution for an e-commerce platform. The goal is to create a  data warehouse in a PostgreSQL, perform necessary transformations, and create an analytical data model in Power BI. 
+The final output will be a real-time dashboard connected to PostgreSQL, facilitating advanced business analysis and decision-making.
 
 ## Objectives
 
@@ -17,6 +18,8 @@ This project aims to develop a comprehensive data pipeline and business intellig
 ### 1. Data Warehouse Setup
 - **Configure PostgreSQL:** Set up PostgreSQL as the central data warehouse.
 - **Create Tables:** Design and create tables to store raw data without any transformations.
+
+![Database Schema](https://drive.google.com/file/d/1A1sRVptX0-7vxtkiQsEMMCf1dh0CpKws/view?usp=drive_link)
 
 ### 2. Data Ingestion
 - **Extract Data:** Gather data from various sources, including transactional systems and CSV files.
@@ -36,6 +39,23 @@ This project aims to develop a comprehensive data pipeline and business intellig
 - **Design Dashboard:** Create an interactive dashboard in Power BI that provides key business metrics and insights.
 - **Real-time Updates:** Set up real-time data refresh to ensure the dashboard displays the most current data.
 - **User Interface:** Design an intuitive and user-friendly interface for stakeholders.
+
+### 6. Business Analysis
+- **Analyze Data:** Use the dashboard to perform in-depth analysis of sales, customer behavior, product performance, and other key metrics.
+- **Generate Insights:** Identify trends, patterns, and opportunities for business growth.
+- **Report Findings:** Present the analysis and insights to stakeholders for informed decision-making.
+
+## Additional Considerations
+
+- **Data Security:** Implement security measures to protect sensitive data.
+- **Performance Tuning:** Optimize database performance for efficient data retrieval and reporting.
+- **Documentation:** Maintain comprehensive documentation of the data pipeline, transformations, and data model.
+- **Maintenance:** Regularly update and maintain the data pipeline and dashboard to accommodate new data sources and business requirements.
+
+## Conclusion
+
+This project will provide a scalable and efficient solution for managing and analyzing e-commerce data. By leveraging PostgreSQL for data storage and Power BI for data visualization, it is aim to deliver actionable insights that drive business success.
+
 
 ### 
 
