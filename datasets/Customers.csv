@@ -1,0 +1,702 @@
+CustomerKey,GeographyKey,RegionKey,BusinessType,Customer,NumberEmployees,AnnualRevenue,YearOpened,CityName,StateCode,StateName,CountryCode,CountryName,Region.1,Continent
+277,292,4,Person,Benjamin Golden,0,150000,1984,Alhambra,CA,California,US,United States,Southwest,North America
+24,376,4,Corporate,Huerta Ltd,61,300000,1983,Union City,CA,California,US,United States,Southwest,North America
+492,295,4,Person,Teresa Pierce,0,150000,1992,Baldwin Park,CA,California,US,United States,Southwest,North America
+365,296,4,Person,Jodi Lynch,0,150000,2001,Barstow,CA,California,US,United States,Southwest,North America
+168,297,4,Person,Angela Bauer,0,150000,1984,Bell Gardens,CA,California,US,United States,Southwest,North America
+42,345,4,Corporate,Sutton Ortega and Mcdonald,79,300000,1999,Newport Beach,CA,California,US,United States,Southwest,North America
+402,303,4,Corporate,Miller Huffman and Campbell,90,300000,1976,Camarillo,CA,California,US,United States,Southwest,North America
+529,303,4,Corporate,Yates Hall and Galloway,96,300000,1990,Camarillo,CA,California,US,United States,Southwest,North America
+6,303,4,Corporate,Franco Group,43,150000,1984,Camarillo,CA,California,US,United States,Southwest,North America
+241,304,4,Person,Katelyn Hubbard,0,150000,2002,Canoga Park,CA,California,US,United States,Southwest,North America
+167,305,4,Small Business,Li Mcclain and King,7,30000,1991,Carson,CA,California,US,United States,Southwest,North America
+187,306,4,Corporate,Allen Johns and Ballard,91,300000,1981,Cerritos,CA,California,US,United States,Southwest,North America
+60,328,4,Corporate,Solomon-Bailey,85,300000,1990,Hayward,CA,California,US,United States,Southwest,North America
+493,308,4,Corporate,Smith Collins and Boyd,84,300000,1985,Citrus Heights,CA,California,US,United States,Southwest,North America
+366,309,4,Corporate,Shields-Flowers,76,300000,1994,City Of Commerce,CA,California,US,United States,Southwest,North America
+78,349,4,Corporate,Wells-Silva,91,300000,1981,Ontario,CA,California,US,United States,Southwest,North America
+331,349,4,Small Business,Patterson LLC,5,30000,1980,Ontario,CA,California,US,United States,Southwest,North America
+151,313,4,Corporate,Frazier-Sutton,79,300000,1999,Culver City,CA,California,US,United States,Southwest,North America
+312,313,4,Small Business,King Bowen and Rogers,16,80000,1992,Culver City,CA,California,US,United States,Southwest,North America
+329,315,4,Person,Matthew Horne,0,80000,1976,Downey,CA,California,US,United States,Southwest,North America
+313,316,4,Person,Beth Shaffer,0,150000,1994,El Cajon,CA,California,US,United States,Southwest,North America
+25,317,4,Small Business,Franklin Miller and Khan,18,80000,2001,El Segundo,CA,California,US,United States,Southwest,North America
+131,317,4,Small Business,Cummings Lopez and Mcdonald,19,80000,1979,El Segundo,CA,California,US,United States,Southwest,North America
+648,317,4,Small Business,Smith Knight and Vasquez,19,80000,2004,El Segundo,CA,California,US,United States,Southwest,North America
+528,318,4,Person,Mark Bell,0,150000,1988,Elk Grove,CA,California,US,United States,Southwest,North America
+96,367,4,Corporate,Savage-Davis,97,300000,1996,Santa Ana,CA,California,US,United States,Southwest,North America
+257,319,4,Corporate,Martin Ltd,76,300000,1994,Escondido,CA,California,US,United States,Southwest,North America
+474,320,4,Person,Jeffrey Hughes,0,150000,2001,Eureka,CA,California,US,United States,Southwest,North America
+113,321,4,Small Business,Hodges-Yang,5,30000,1980,Fontana,CA,California,US,United States,Southwest,North America
+5,322,4,Person,David Carter,0,80000,1982,Fremont,CA,California,US,United States,Southwest,North America
+61,323,4,Small Business,Elliott Ltd,6,30000,1983,Fullerton,CA,California,US,United States,Southwest,North America
+385,324,4,Small Business,Martinez Williams and Wood,7,30000,1991,Gilroy,CA,California,US,United States,Southwest,North America
+133,341,4,Corporate,Montes Group,61,300000,1983,Modesto,CA,California,US,United States,Southwest,North America
+491,341,4,Small Business,Barker-Martinez,8,30000,1986,Modesto,CA,California,US,United States,Southwest,North America
+330,327,4,Corporate,Marquez Group,40,150000,1978,Hanford,CA,California,US,United States,Southwest,North America
+608,332,4,Corporate,Hall-Johnson,86,300000,1982,La Mesa,CA,California,US,United States,Southwest,North America
+403,333,4,Small Business,Cunningham Jones and Bowen,4,30000,1982,Lake Elsinore,CA,California,US,United States,Southwest,North America
+275,334,4,Corporate,Ramos PLC,84,300000,1985,Lakewood,CA,California,US,United States,Southwest,North America
+41,340,4,Person,Amy Hoffman,0,150000,1993,Milpitas,CA,California,US,United States,Southwest,North America
+203,342,4,Small Business,Arnold-Barnes,16,80000,1992,Monrovia,CA,California,US,United States,Southwest,North America
+97,344,4,Small Business,Curtis Ltd,18,80000,1998,Newark,CA,California,US,United States,Southwest,North America
+419,346,4,Person,Larry Graves,0,150000,1988,Norwalk,CA,California,US,United States,Southwest,North America
+600,346,4,Small Business,Robles Group,8,30000,1986,Norwalk,CA,California,US,United States,Southwest,North America
+240,350,4,Small Business,Walton Lyons and Robertson,19,80000,1979,Orange,CA,California,US,United States,Southwest,North America
+295,351,4,Person,Brian Gray,0,150000,1975,Oxnard,CA,California,US,United States,Southwest,North America
+276,351,4,Small Business,Hunter LLC,7,30000,1991,Oxnard,CA,California,US,United States,Southwest,North America
+95,353,4,Person,Eddie Anthony,0,150000,1994,Pleasanton,CA,California,US,United States,Southwest,North America
+383,354,4,Person,Todd Cole,0,150000,1992,Redlands,CA,California,US,United States,Southwest,North America
+258,356,4,Small Business,Cochran-Herrera,13,80000,2000,Sacramento,CA,California,US,United States,Southwest,North America
+545,357,4,Small Business,Miller and Person Ltda,17,80000,2001,San Bruno,CA,California,US,United States,Southwest,North America
+239,369,4,Corporate,Woods White and Williams,58,300000,2003,Santa Monica,CA,California,US,United States,Southwest,North America
+77,359,4,Person,Kyle Stewart,0,150000,1975,San Diego,CA,California,US,United States,Southwest,North America
+367,359,4,Small Business,Floyd Fields and Nash,13,80000,2000,San Diego,CA,California,US,United States,Southwest,North America
+114,360,4,Person,Anthony Booth,0,80000,1982,San Francisco,CA,California,US,United States,Southwest,North America
+349,362,4,Small Business,Lewis-Levine,19,80000,1979,San Jose,CA,California,US,United States,Southwest,North America
+185,362,4,Small Business,Singleton-Jimenez,4,30000,1982,San Jose,CA,California,US,United States,Southwest,North America
+511,363,4,Corporate,Dunn Jordan and Morgan,90,300000,1976,San Mateo,CA,California,US,United States,Southwest,North America
+23,364,4,Person,Robert Becker,0,150000,2002,San Ramon,CA,California,US,United States,Southwest,North America
+384,365,4,Corporate,Thomas Nielsen and Sullivan,84,300000,1985,San Ysidro,CA,California,US,United States,Southwest,North America
+599,366,4,Corporate,Jones-Garza,83,300000,1993,Sand City,CA,California,US,United States,Southwest,North America
+420,370,4,Corporate,Glenn Johnson and Myers,96,300000,1990,Sherman Oaks,CA,California,US,United States,Southwest,North America
+259,371,4,Person,Robert Nicholson,0,150000,1993,Simi Valley,CA,California,US,United States,Southwest,North America
+150,373,4,Person,Bryan Ortega,0,150000,1993,Stockton,CA,California,US,United States,Southwest,North America
+204,374,4,Person,Sean Potter,0,150000,1994,Torrance,CA,California,US,United States,Southwest,North America
+510,375,4,Person,Michael Davis,0,150000,1983,Trabuco Canyon,CA,California,US,United States,Southwest,North America
+311,377,4,Corporate,Long-Rush,96,300000,1990,Upland,CA,California,US,United States,Southwest,North America
+582,379,4,Small Business,Marsh Ltd,14,80000,1995,Van Nuys,CA,California,US,United States,Southwest,North America
+59,380,4,Person,Denise Kaufman,0,150000,1984,Visalia,CA,California,US,United States,Southwest,North America
+294,381,4,Small Business,Martinez-Davila,4,30000,1982,Vista,CA,California,US,United States,Southwest,North America
+547,382,4,Person,Michael Walls,0,80000,1976,Walnut Creek,CA,California,US,United States,Southwest,North America
+421,384,4,Small Business,Hall Simon and Thomas,16,80000,1992,Whittier,CA,California,US,United States,Southwest,North America
+609,294,4,Small Business,Soto LLC,5,30000,1988,Auburn,CA,California,US,United States,Southwest,North America
+347,378,4,Person,Katherine Martin,0,100000,1975,Vacaville,CA,California,US,United States,Southwest,North America
+455,293,4,Small Business,Ellis Gomez and White,20,100000,2004,Alpine,CA,California,US,United States,Southwest,North America
+456,330,4,Person,Anthony Cline,0,100000,1975,Irvine,CA,California,US,United States,Southwest,North America
+565,381,4,Person,Janice Taylor,0,100000,1975,Vista,CA,California,US,United States,Southwest,North America
+649,367,4,Person,Morgan Davis,0,100000,1975,Santa Ana,CA,California,US,United States,Southwest,North America
+674,314,4,Person,Kimberly Miller DDS,0,100000,1975,Daly City,CA,California,US,United States,Southwest,North America
+18,474,3,Corporate,Little Ali and Simmons,55,300000,2003,Zeeland,MI,Michigan,US,United States,Central,North America
+21,584,4,Corporate,Davis Inc,58,300000,2003,Irving,TX,Texas,US,United States,Southwest,North America
+3,584,4,Corporate,Martinez Davidson and Johnson,40,150000,1978,Irving,TX,Texas,US,United States,Southwest,North America
+36,447,2,Corporate,Cooley Black and Campbell,73,300000,2002,South Bend,IN,Indiana,US,United States,Northeast,North America
+39,477,3,Corporate,Melton-Morgan,76,300000,1994,Edina,MN,Minnesota,US,United States,Central,North America
+54,520,2,Corporate,Rasmussen Gordon and Turner,83,300000,1993,Melville,NY,New York,US,United States,Northeast,North America
+57,439,3,Corporate,Thornton Inc,84,300000,1985,West Chicago,IL,Illinois,US,United States,Central,North America
+72,502,2,Corporate,Jackson Group,89,300000,1984,Nashua,NH,New Hampshire,US,United States,Northeast,North America
+594,502,2,Small Business,Lucas Tran and Hubbard,10,80000,1989,Nashua,NH,New Hampshire,US,United States,Northeast,North America
+75,580,4,Corporate,Patton-Fields,90,300000,1976,Garland,TX,Texas,US,United States,Southwest,North America
+166,580,4,Corporate,Frye-Knight,84,300000,1985,Garland,TX,Texas,US,United States,Southwest,North America
+93,590,4,Corporate,Webb Rodriguez and Thomas,96,300000,1990,Round Rock,TX,Texas,US,United States,Southwest,North America
+273,590,4,Small Business,Abbott Butler and Sherman,8,30000,1986,Round Rock,TX,Texas,US,United States,Southwest,North America
+108,459,2,Corporate,Luna-Young,66,300000,1983,Kittery,ME,Maine,US,United States,Northeast,North America
+642,459,2,Small Business,Yang Russell and Martin,18,80000,1998,Kittery,ME,Maine,US,United States,Northeast,North America
+130,578,4,Corporate,Chen Davis and Cameron,58,300000,2003,Dallas,TX,Texas,US,United States,Southwest,North America
+165,578,4,Person,Emily Flores,0,150000,1992,Dallas,TX,Texas,US,United States,Southwest,North America
+201,578,4,Person,Melinda Hamilton,0,150000,1988,Dallas,TX,Texas,US,United States,Southwest,North America
+256,578,4,Person,Hayley May,0,150000,2001,Dallas,TX,Texas,US,United States,Southwest,North America
+112,578,4,Corporate,Sanders-Hogan,40,150000,1978,Dallas,TX,Texas,US,United States,Southwest,North America
+148,431,3,Corporate,Hill Green and Cunningham,76,300000,1994,Carol Stream,IL,Illinois,US,United States,Central,North America
+184,574,4,Corporate,Stone Inc,90,300000,1976,Carrollton,TX,Texas,US,United States,Southwest,North America
+202,589,4,Corporate,Mcintosh-Scott,96,300000,1990,Plano,TX,Texas,US,United States,Southwest,North America
+205,285,4,Corporate,Rangel Rodriguez and Nash,97,300000,1996,Chandler,AZ,Arizona,US,United States,Southwest,North America
+625,285,4,Person,Michelle Howard,0,150000,1980,Chandler,AZ,Arizona,US,United States,Southwest,North America
+233,521,2,Corporate,Wagner-Bowman,52,300000,2002,New Hartford,NY,New York,US,United States,Northeast,North America
+251,395,2,Corporate,Parker-Hoffman,70,300000,1997,Hamden,CT,Connecticut,US,United States,Northeast,North America
+269,527,2,Corporate,Cervantes-Hernandez,82,300000,1988,Euclid,OH,Ohio,US,United States,Northeast,North America
+287,463,3,Corporate,Smith Davis and Walker,88,300000,1979,Madison Heights,MI,Michigan,US,United States,Central,North America
+305,445,2,Corporate,Rogers-Jones,94,300000,1978,Michigan City,IN,Indiana,US,United States,Northeast,North America
+323,460,3,Corporate,Horton Diaz and Martinez,100,300000,2003,Detroit,MI,Michigan,US,United States,Central,North America
+563,286,4,Corporate,Torres-Jenkins,55,300000,2003,Gilbert,AZ,Arizona,US,United States,Southwest,North America
+342,443,2,Corporate,Torres Zimmerman and Martinez,52,300000,2002,Indianapolis,IN,Indiana,US,United States,Northeast,North America
+432,443,2,Corporate,Robbins Harper and Cooper,100,300000,2003,Indianapolis,IN,Indiana,US,United States,Northeast,North America
+234,443,2,Small Business,Fisher Group,17,80000,2004,Indianapolis,IN,Indiana,US,United States,Northeast,North America
+457,287,4,Corporate,Williams-Moyer,58,300000,2003,Mesa,AZ,Arizona,US,United States,Southwest,North America
+345,583,4,Corporate,Hayes Hartman and Randolph,55,300000,2003,Humble,TX,Texas,US,United States,Southwest,North America
+475,288,4,Corporate,Johnson-Rivera,76,300000,1994,Phoenix,AZ,Arizona,US,United States,Southwest,North America
+473,288,4,Small Business,Shelton Gonzalez and Allen,14,80000,1995,Phoenix,AZ,Arizona,US,United States,Southwest,North America
+437,288,4,Small Business,Smith and Sons,2,30000,1974,Phoenix,AZ,Arizona,US,United States,Southwest,North America
+348,390,3,Corporate,Gates-Barnes,58,300000,2003,Loveland,CO,Colorado,US,United States,Central,North America
+546,390,3,Small Business,Jackson Gonzalez and Contreras,2,30000,1974,Loveland,CO,Colorado,US,United States,Central,North America
+610,289,4,Person,James Moore,0,150000,1981,Scottsdale,AZ,Arizona,US,United States,Southwest,North America
+583,290,4,Person,Mary Hensley,0,150000,2001,Surprise,AZ,Arizona,US,United States,Southwest,North America
+439,291,4,Corporate,Brown-Lindsey,40,150000,1978,Tucson,AZ,Arizona,US,United States,Southwest,North America
+509,291,4,Small Business,Medina Inc,2,30000,1977,Tucson,AZ,Arizona,US,United States,Southwest,North America
+222,386,3,Small Business,Gibson Hall and Haney,5,30000,1980,Denver,CO,Colorado,US,United States,Central,North America
+360,470,3,Corporate,Jones Reese and Cruz,70,300000,1997,Saginaw,MI,Michigan,US,United States,Central,North America
+377,470,3,Person,John Burke,0,150000,1995,Saginaw,MI,Michigan,US,United States,Central,North America
+223,387,3,Person,John Wilson,0,80000,1982,Englewood,CO,Colorado,US,United States,Central,North America
+363,486,3,Corporate,King Reynolds and Skinner,73,300000,2002,Saint Ann,MO,Missouri,US,United States,Central,North America
+79,388,3,Small Business,Kaiser Rodriguez and Merritt,6,30000,1974,Greeley,CO,Colorado,US,United States,Central,North America
+523,389,3,Corporate,Franklin Bird and Cook,94,300000,1978,Longmont,CO,Colorado,US,United States,Central,North America
+527,391,3,Small Business,Johnson Foster and Page,14,80000,1986,Parker,CO,Colorado,US,United States,Central,North America
+132,392,3,Person,Jamie Pacheco,0,150000,2002,Westminster,CO,Colorado,US,United States,Central,North America
+149,392,3,Small Business,Collins-Miles,13,80000,2000,Westminster,CO,Colorado,US,United States,Central,North America
+378,534,2,Corporate,Reynolds Ltd,82,300000,1988,Springdale,OH,Ohio,US,United States,Northeast,North America
+143,393,2,Small Business,Lopez-Lee,15,80000,2003,East Haven,CT,Connecticut,US,United States,Northeast,North America
+381,487,3,Corporate,Conway King and Cooke,83,300000,1993,Saint Louis,MO,Missouri,US,United States,Central,North America
+220,487,3,Person,Sarah Hobbs,0,80000,1976,Saint Louis,MO,Missouri,US,United States,Central,North America
+327,487,3,Small Business,Williams-Davidson,17,80000,2001,Saint Louis,MO,Missouri,US,United States,Central,North America
+71,394,2,Person,Luke Gomez,0,150000,1978,Farmington,CT,Connecticut,US,United States,Northeast,North America
+684,396,2,Corporate,Lang-Baker,67,300000,1995,Milford,CT,Connecticut,US,United States,Northeast,North America
+252,396,2,Small Business,Smith-Gallegos,15,80000,2003,Milford,CT,Connecticut,US,United States,Northeast,North America
+691,397,2,Small Business,Simmons LLC,14,80000,1995,New Haven,CT,Connecticut,US,United States,Northeast,North America
+125,398,2,Small Business,Morton-Hogan,17,80000,2004,Stamford,CT,Connecticut,US,United States,Northeast,North America
+396,446,2,Corporate,Delgado-Rodriguez,88,300000,1979,New Castle,IN,Indiana,US,United States,Northeast,North America
+399,585,4,Corporate,Larson Brown and Black,89,300000,1984,Killeen,TX,Texas,US,United States,Southwest,North America
+215,400,2,Small Business,Hernandez LLC,18,80000,1979,Westport,CT,Connecticut,US,United States,Northeast,North America
+147,432,3,Person,Lisa Perez,0,150000,2001,Chicago,IL,Illinois,US,United States,Central,North America
+183,432,3,Person,Mark Hubbard,0,150000,1983,Chicago,IL,Illinois,US,United States,Central,North America
+58,432,3,Small Business,Williams-Smith,7,30000,1991,Chicago,IL,Illinois,US,United States,Central,North America
+219,432,3,Small Business,Vargas Jones and Williams,2,30000,1974,Chicago,IL,Illinois,US,United States,Central,North America
+111,433,3,Person,Justin Lee,0,80000,1976,Elgin,IL,Illinois,US,United States,Central,North America
+400,434,3,Small Business,Norton-Neal,2,30000,1977,Joliet,IL,Illinois,US,United States,Central,North America
+414,441,2,Corporate,Orozco Johnson and Moore,94,300000,1978,Daleville,IN,Indiana,US,United States,Northeast,North America
+417,591,4,Corporate,Austin Group,95,300000,1984,San Antonio,TX,Texas,US,United States,Southwest,North America
+471,591,4,Person,James Benitez,0,150000,1996,San Antonio,TX,Texas,US,United States,Southwest,North America
+580,591,4,Person,Veronica Stewart DVM,0,150000,1996,San Antonio,TX,Texas,US,United States,Southwest,North America
+328,591,4,Small Business,Hays Morris and Clark,2,30000,1974,San Antonio,TX,Texas,US,United States,Southwest,North America
+382,591,4,Small Business,Walters-Moore,8,30000,1986,San Antonio,TX,Texas,US,United States,Southwest,North America
+472,436,3,Corporate,Burgess Chaney and Conley,73,300000,2002,Norridge,IL,Illinois,US,United States,Central,North America
+310,437,3,Person,Mary Goodwin,0,150000,1988,Peoria,IL,Illinois,US,United States,Central,North America
+622,438,3,Person,Madison Hernandez,0,150000,1975,Tuscola,IL,Illinois,US,United States,Central,North America
+76,440,3,Small Business,Castro Wong and Patel,4,30000,1982,Wood Dale,IL,Illinois,US,United States,Central,North America
+435,577,4,Corporate,Adkins-Day,66,300000,1983,Corpus Christi,TX,Texas,US,United States,Southwest,North America
+161,442,2,Small Business,Miranda Ltd,9,30000,1994,Fort Wayne,IN,Indiana,US,United States,Northeast,North America
+454,560,3,Corporate,Walsh Morrison and Rodriguez,55,300000,2003,Denby,SD,South Dakota,US,United States,Central,North America
+636,444,2,Small Business,Thomas Phillips and Campbell,14,80000,1986,Logansport,IN,Indiana,US,United States,Northeast,North America
+486,453,2,Person,Amy Grant,0,150000,1995,Braintree,MA,Massachusetts,US,United States,Northeast,North America
+53,454,2,Person,Tracy Rodriguez,0,150000,1987,Norwood,MA,Massachusetts,US,United States,Northeast,North America
+557,457,2,Corporate,Nguyen-Haas,49,150000,1996,Wrentham,MA,Massachusetts,US,United States,Northeast,North America
+490,588,4,Corporate,Johnson Cannon and Lang,83,300000,1993,Mesquite,TX,Texas,US,United States,Southwest,North America
+660,462,3,Corporate,Grant-Scott,43,150000,1984,Howell,MI,Michigan,US,United States,Central,North America
+395,464,3,Person,Kelly Ward,0,150000,1986,Midland,MI,Michigan,US,United States,Central,North America
+468,465,3,Person,Angela Stuart,0,150000,1999,Monroe,MI,Michigan,US,United States,Central,North America
+197,466,3,Small Business,Vance-Garcia,12,80000,1980,Novi,MI,Michigan,US,United States,Central,North America
+508,581,4,Corporate,Ramirez-Smith LLC,89,300000,1984,Hillsboro,TX,Texas,US,United States,Southwest,North America
+180,467,3,Person,Mark Burns,0,150000,1978,Pontiac,MI,Michigan,US,United States,Central,North America
+643,468,3,Person,Brett Wagner,0,150000,2000,Port Huron,MI,Michigan,US,United States,Central,North America
+504,469,3,Person,Eric Kelly,0,150000,1986,Redford,MI,Michigan,US,United States,Central,North America
+198,471,3,Person,Megan Thompson PhD,0,150000,1982,Southfield,MI,Michigan,US,United States,Central,North America
+306,472,3,Small Business,Ferguson Group,12,80000,1980,Southgate,MI,Michigan,US,United States,Central,North America
+288,473,3,Small Business,Wiggins Gutierrez and Lee,3,30000,1985,Westland,MI,Michigan,US,United States,Central,North America
+579,475,3,Small Business,Scott-Figueroa,15,80000,2003,Branch,MN,Minnesota,US,United States,Central,North America
+274,476,3,Person,Joanne Chavez,0,150000,1992,Duluth,MN,Minnesota,US,United States,Central,North America
+694,478,3,Small Business,Sutton Vaughn and Parsons,13,80000,2000,Medford,MN,Minnesota,US,United States,Central,North America
+544,484,3,Corporate,Douglas Myers and Martin,66,300000,1983,Kansas City,MO,Missouri,US,United States,Central,North America
+695,484,3,Person,Ann Clark,0,150000,1993,Kansas City,MO,Missouri,US,United States,Central,North America
+623,479,3,Corporate,Galloway Inc,91,300000,1981,Minneapolis,MN,Minnesota,US,United States,Central,North America
+598,481,3,Person,Morgan Harris,0,150000,1987,Branson,MO,Missouri,US,United States,Central,North America
+364,482,3,Small Business,Wilkins and Sons,14,80000,1995,Ferguson,MO,Missouri,US,United States,Central,North America
+575,525,2,Corporate,Stevenson-Kaufman,67,300000,1995,Cincinnati,OH,Ohio,US,United States,Northeast,North America
+359,525,2,Person,Raymond Leblanc,0,150000,1999,Cincinnati,OH,Ohio,US,United States,Northeast,North America
+670,485,3,Small Business,Mcdonald-Boyer,17,80000,2004,Odessa,MO,Missouri,US,United States,Central,North America
+581,506,4,Corporate,Holloway Fitzgerald and Bell,73,300000,2002,Rio Rancho,NM,New Mexico,US,United States,Southwest,North America
+503,501,2,Small Business,Baxter LLC,4,30000,1980,Hooksett,NH,New Hampshire,US,United States,Northeast,North America
+593,529,2,Corporate,Anderson Hahn and Crawford,81,300000,1996,Holland,OH,Ohio,US,United States,Northeast,North America
+558,504,2,Small Business,Brown LLC,14,80000,1998,Tilton,NH,New Hampshire,US,United States,Northeast,North America
+221,505,4,Corporate,Schultz Wallace and Lane,40,150000,1978,Las Cruces,NM,New Mexico,US,United States,Southwest,North America
+186,507,4,Person,Jared Clements,0,150000,1975,Santa Fe,NM,New Mexico,US,United States,Southwest,North America
+413,513,2,Person,Jennifer Mckay,0,150000,1976,Central Valley,NY,New York,US,United States,Northeast,North America
+522,514,2,Person,Mitchell Stewart,0,150000,1976,Cheektowaga,NY,New York,US,United States,Northeast,North America
+324,516,2,Small Business,Adams Inc,18,80000,1979,De Witt,NY,New York,US,United States,Northeast,North America
+619,518,2,Person,Steven Haynes,0,150000,1983,Ithaca,NY,New York,US,United States,Northeast,North America
+539,519,2,Small Business,Willis-Spencer,19,80000,2004,Lake George,NY,New York,US,United States,Northeast,North America
+144,522,2,Person,Terri Snow,0,150000,1996,New York,NY,New York,US,United States,Northeast,North America
+667,523,2,Small Business,Perry Group,14,80000,1998,Valley Stream,NY,New York,US,United States,Northeast,North America
+666,526,2,Corporate,Strong Gomez and Jackson,49,150000,1996,Columbus,OH,Ohio,US,United States,Northeast,North America
+647,571,4,Corporate,Simmons Group,99,300000,2003,Arlington,TX,Texas,US,United States,Southwest,North America
+690,528,2,Corporate,Valentine Clark and Garcia,73,300000,2002,Heath,OH,Ohio,US,United States,Northeast,North America
+576,530,2,Small Business,Donovan Santos and Kelly,16,80000,1998,Mansfield,OH,Ohio,US,United States,Northeast,North America
+179,531,2,Small Business,Cortez Ltd,3,30000,1985,Mentor,OH,Ohio,US,United States,Northeast,North America
+270,532,2,Small Business,Williams Dixon and Phillips,9,30000,1994,North Randall,OH,Ohio,US,United States,Northeast,North America
+89,533,2,Person,Andrew Mason,0,150000,1982,Oberlin,OH,Ohio,US,United States,Northeast,North America
+162,554,2,Person,Sarah Osborne,0,150000,1987,Warwick,RI,Rhode Island,US,United States,Northeast,North America
+35,555,2,Person,Anna Herrera,0,150000,1996,West Kingston,RI,Rhode Island,US,United States,Northeast,North America
+521,556,2,Small Business,Harrington and Sons,10,80000,1974,Woonsocket,RI,Rhode Island,US,United States,Northeast,North America
+22,561,3,Small Business,Shaw-Wood,19,80000,1979,North Sioux City,SD,South Dakota,US,United States,Central,North America
+4,572,4,Small Business,Livingston Newton and Williams,5,30000,1980,Austin,TX,Texas,US,United States,Southwest,North America
+291,573,4,Small Business,Olsen-Price,2,30000,1977,Baytown,TX,Texas,US,United States,Southwest,North America
+489,575,4,Person,Michael Green,0,150000,1987,Cedar Park,TX,Texas,US,United States,Southwest,North America
+436,576,4,Small Business,Fry-Moss,17,80000,2001,College Station,TX,Texas,US,United States,Southwest,North America
+94,579,4,Small Business,Sims Group,16,80000,1992,Fort Worth,TX,Texas,US,United States,Southwest,North America
+292,582,4,Person,Ronald Cummings,0,150000,1983,Houston,TX,Texas,US,United States,Southwest,North America
+255,582,4,Small Business,Stewart-Ferguson,14,80000,1995,Houston,TX,Texas,US,United States,Southwest,North America
+309,582,4,Small Business,Mullen-Adams,14,80000,1986,Houston,TX,Texas,US,United States,Southwest,North America
+597,582,4,Small Business,Mccall Nguyen and Dougherty,9,30000,1994,Houston,TX,Texas,US,United States,Southwest,North America
+607,586,4,Person,Thomas Walker,0,150000,1989,La Marque,TX,Texas,US,United States,Southwest,North America
+40,587,4,Small Business,Silva Calderon and Hayes,13,80000,2000,Laredo,TX,Texas,US,United States,Southwest,North America
+507,592,4,Person,David Mora,0,150000,1978,Stafford,TX,Texas,US,United States,Southwest,North America
+561,593,4,Small Business,Robinson-Hart,17,80000,2004,Sugar Land,TX,Texas,US,United States,Southwest,North America
+606,651,3,Small Business,Russell Leon and Jenkins,6,30000,1983,Mosinee,WI,Wisconsin,US,United States,Central,North America
+418,652,3,Small Business,Ruiz Austin and Hill,14,80000,1986,Racine,WI,Wisconsin,US,United States,Central,North America
+618,503,2,Small Business,Murillo PLC,2,30000,1977,Plaistow,NH,New Hampshire,US,United States,Northeast,North America
+624,289,4,Small Business,Lang-White,6,30000,1974,Scottsdale,AZ,Arizona,US,United States,Southwest,North America
+107,455,2,Person,Benjamin Miller,0,100000,2002,Randolph,MA,Massachusetts,US,United States,Northeast,North America
+126,517,2,Person,Troy Wood,0,100000,2005,Endicott,NY,New York,US,United States,Northeast,North America
+129,440,3,Person,Jeff Scott,0,100000,1975,Wood Dale,IL,Illinois,US,United States,Central,North America
+216,399,2,Person,Olivia Tucker,0,100000,2002,Waterbury,CT,Connecticut,US,United States,Northeast,North America
+237,432,3,Small Business,Gutierrez Jimenez and Reyes,20,100000,2004,Chicago,IL,Illinois,US,United States,Central,North America
+238,483,3,Person,Donna Gonzalez,0,100000,1975,Jefferson City,MO,Missouri,US,United States,Central,North America
+341,515,2,Person,Sean Taylor,0,100000,2000,Clay,NY,New York,US,United States,Northeast,North America
+346,435,3,Small Business,Wallace Inc,20,100000,2004,Moline,IL,Illinois,US,United States,Central,North America
+431,461,3,Person,Kim Coleman,0,100000,1975,Holland,MI,Michigan,US,United States,Central,North America
+450,456,2,Person,Jeffrey Hughes,0,100000,2000,Saugus,MA,Massachusetts,US,United States,Northeast,North America
+453,650,3,Person,Benjamin Golden,0,100000,2005,Milwaukee,WI,Wisconsin,US,United States,Central,North America
+540,524,2,Person,Jennifer Weber,0,100000,1975,Burbank,OH,Ohio,US,United States,Northeast,North America
+543,649,3,Person,Brianna Humphrey,0,100000,2002,Johnson Creek,WI,Wisconsin,US,United States,Central,North America
+562,480,3,Person,Ronald Frye,0,100000,2005,Woodbury,MN,Minnesota,US,United States,Central,North America
+646,487,3,Person,Megan Delgado,0,100000,2005,Saint Louis,MO,Missouri,US,United States,Central,North America
+671,591,4,Person,Gary Rogers,0,100000,2005,San Antonio,TX,Texas,US,United States,Southwest,North America
+27,568,5,Corporate,Smith-Zamora,64,300000,2000,Millington,TN,Tennessee,US,United States,Southeast,North America
+9,568,5,Corporate,George Rodriguez and Wright,46,150000,1990,Millington,TN,Tennessee,US,United States,Southeast,North America
+134,568,5,Small Business,Gibson-Arnold,18,80000,2001,Millington,TN,Tennessee,US,United States,Southeast,North America
+45,565,5,Corporate,Adams & Sons LLC,80,300000,1991,La Vergne,TN,Tennessee,US,United States,Southeast,North America
+63,495,5,Corporate,Palmer-Villanueva,86,300000,1982,Greensboro,NC,North Carolina,US,United States,Southeast,North America
+81,409,5,Corporate,Dominguez Carson and Hall,92,300000,1991,Miami,FL,Florida,US,United States,Southeast,North America
+242,409,5,Corporate,Lowe Williams and Smith,61,300000,1983,Miami,FL,Florida,US,United States,Southeast,North America
+260,409,5,Corporate,Green and Sons,79,300000,1999,Miami,FL,Florida,US,United States,Southeast,North America
+26,409,5,Person,Julia Mckay,0,150000,1987,Miami,FL,Florida,US,United States,Southeast,North America
+98,409,5,Person,Cassandra Hawkins,0,150000,2000,Miami,FL,Florida,US,United States,Southeast,North America
+628,409,5,Person,Jennifer Norman,0,150000,1992,Miami,FL,Florida,US,United States,Southeast,North America
+8,409,5,Person,Alice Ritter,0,80000,1988,Miami,FL,Florida,US,United States,Southeast,North America
+188,409,5,Small Business,Blackwell Brown and Ramsey,6,30000,1974,Miami,FL,Florida,US,United States,Southeast,North America
+494,409,5,Small Business,Rodriguez-Holloway,7,30000,1991,Miami,FL,Florida,US,United States,Southeast,North America
+603,409,5,Small Business,Lamb Davidson and Tran,7,30000,1991,Miami,FL,Florida,US,United States,Southeast,North America
+90,602,5,Corporate,Murillo Carlson and Campos,95,300000,1984,Chantilly,VA,Virginia,US,United States,Southeast,North America
+99,412,5,Corporate,Martinez Webb and Hooper,98,300000,2002,Sarasota,FL,Florida,US,United States,Southeast,North America
+278,411,5,Corporate,Campbell-Pitts,85,300000,1990,Orlando,FL,Florida,US,United States,Southeast,North America
+530,411,5,Small Business,Pitts PLC,16,80000,1992,Orlando,FL,Florida,US,United States,Southeast,North America
+440,411,5,Small Business,Good and Sons,5,30000,1980,Orlando,FL,Florida,US,United States,Southeast,North America
+296,280,5,Corporate,Cole LLC,91,300000,1981,Birmingham,AL,Alabama,US,United States,Southeast,North America
+314,490,5,Corporate,Reynolds PLC,97,300000,1996,Tupelo,MS,Mississippi,US,United States,Southeast,North America
+351,425,5,Corporate,Brennan Inc,61,300000,1983,Mcdonough,GA,Georgia,US,United States,Southeast,North America
+171,425,5,Person,Tony Thompson,0,150000,1989,Mcdonough,GA,Georgia,US,United States,Southeast,North America
+369,449,5,Corporate,Yates Carey and Thompson,79,300000,1999,Florence,KY,Kentucky,US,United States,Southeast,North America
+387,282,5,Corporate,Baker Odom and Johnson,85,300000,1990,Huntsville,AL,Alabama,US,United States,Southeast,North America
+44,282,5,Person,Lauren Jenkins,0,150000,1998,Huntsville,AL,Alabama,US,United States,Southeast,North America
+405,564,5,Corporate,Hughes-Meyer,91,300000,1981,Kingsport,TN,Tennessee,US,United States,Southeast,North America
+423,488,5,Corporate,Jacobs LLC,97,300000,1996,Biloxi,MS,Mississippi,US,United States,Southeast,North America
+566,489,5,Corporate,Wallace Collins and Cook,58,300000,2003,Gulfport,MS,Mississippi,US,United States,Southeast,North America
+584,426,5,Corporate,Miller Beer LLC,76,300000,1994,Savannah,GA,Georgia,US,United States,Southeast,North America
+602,566,5,Corporate,Strong Gomez and Jackson,84,300000,1985,Maryville,TN,Tennessee,US,United States,Southeast,North America
+611,402,5,Corporate,Huerta-Raymond,87,300000,1987,Bradenton,FL,Florida,US,United States,Southeast,North America
+675,410,5,Corporate,Williams PLC,58,300000,2003,North Miami Beach,FL,Florida,US,United States,Southeast,North America
+699,496,5,Corporate,Wilson PLC,80,300000,1991,Kannapolis,NC,North Carolina,US,United States,Southeast,North America
+62,569,5,Person,Amber Thomas,0,150000,1989,Nashville,TN,Tennessee,US,United States,Southeast,North America
+350,569,5,Person,Martin Flynn,0,150000,2002,Nashville,TN,Tennessee,US,United States,Southeast,North America
+512,569,5,Small Business,Chase-Johnson,4,30000,1982,Nashville,TN,Tennessee,US,United States,Southeast,North America
+80,413,5,Person,Susan Lawson,0,150000,1980,Sunrise,FL,Florida,US,United States,Southeast,North America
+224,281,5,Corporate,Palmer-Villanueva,43,150000,1984,Florence,AL,Alabama,US,United States,Southeast,North America
+135,567,5,Person,Mrs. Andrea Thomas,0,150000,1987,Memphis,TN,Tennessee,US,United States,Southeast,North America
+585,567,5,Small Business,Newman Ltd,13,80000,2000,Memphis,TN,Tennessee,US,United States,Southeast,North America
+170,567,5,Small Business,Wilson Howard and Allen,6,30000,1983,Memphis,TN,Tennessee,US,United States,Southeast,North America
+279,567,5,Small Business,Solis Taylor and Lloyd,6,30000,1983,Memphis,TN,Tennessee,US,United States,Southeast,North America
+189,283,5,Person,Catherine Jones,0,150000,1980,Mobile,AL,Alabama,US,United States,Southeast,North America
+332,284,5,Person,Joshua Webb,0,80000,1982,Montgomery,AL,Alabama,US,United States,Southeast,North America
+261,401,5,Small Business,Nelson Snyder and Bernard,12,80000,1992,Altamonte Springs,FL,Florida,US,United States,Southeast,North America
+153,403,5,Person,Pamela Peterson,0,150000,1998,Clearwater,FL,Florida,US,United States,Southeast,North America
+549,403,5,Small Business,King Ltd,5,30000,1980,Clearwater,FL,Florida,US,United States,Southeast,North America
+458,404,5,Small Business,James-Jackson,19,80000,1979,Destin,FL,Florida,US,United States,Southeast,North America
+243,406,5,Small Business,Martinez Williams and Wood,18,80000,2001,Kendall,FL,Florida,US,United States,Southeast,North America
+495,407,5,Person,Michael Norton,0,150000,1984,Lakeland,FL,Florida,US,United States,Southeast,North America
+315,408,5,Small Business,Daniels-Johnson,18,80000,1998,Merritt Island,FL,Florida,US,United States,Southeast,North America
+477,414,5,Person,Alyssa Clark,0,150000,1993,Tampa,FL,Florida,US,United States,Southeast,North America
+531,415,5,Person,Michael Scott,0,150000,1994,Vero Beach,FL,Florida,US,United States,Southeast,North America
+116,416,5,Small Business,Wood Gallegos and Molina,8,30000,1986,Atlanta,GA,Georgia,US,United States,Southeast,North America
+651,417,5,Small Business,Graves-Butler,18,80000,1979,Augusta,GA,Georgia,US,United States,Southeast,North America
+676,418,5,Small Business,Stewart-Graham,19,80000,1979,Austell,GA,Georgia,US,United States,Southeast,North America
+525,419,5,Person,Lisa Fletcher,0,150000,1982,Byron,GA,Georgia,US,United States,Southeast,North America
+152,420,5,Small Business,Torres Brooks and Taylor,12,80000,1992,Clarkston,GA,Georgia,US,United States,Southeast,North America
+476,421,5,Small Business,Horne LLC,13,80000,2000,Columbus,GA,Georgia,US,United States,Southeast,North America
+207,498,5,Person,Annette Hendrix MD,0,150000,2000,Rocky Mount,NC,North Carolina,US,United States,Southeast,North America
+368,422,5,Person,Thomas Wallace,0,150000,1993,Decatur,GA,Georgia,US,United States,Southeast,North America
+459,423,5,Person,Jimmy Wade,0,150000,2002,La Grange,GA,Georgia,US,United States,Southeast,North America
+117,427,5,Person,Jody Lopez,0,80000,1988,Suwanee,GA,Georgia,US,United States,Southeast,North America
+225,448,5,Small Business,Schwartz Hunt and Ali,8,30000,1986,Campbellsville,KY,Kentucky,US,United States,Southeast,North America
+513,450,5,Person,Patrick Thomas,0,150000,1975,Newport,KY,Kentucky,US,United States,Southeast,North America
+297,451,5,Small Business,Moon and Sons,6,30000,1974,Saint Matthews,KY,Kentucky,US,United States,Southeast,North America
+441,452,5,Person,Eric Nixon,0,80000,1982,Somerset,KY,Kentucky,US,United States,Southeast,North America
+700,494,5,Small Business,Lutz Brown and Watts,11,80000,1997,Charlotte,NC,North Carolina,US,United States,Southeast,North America
+524,499,5,Small Business,Roberts Sweeney and Lopez,12,80000,1980,Smithfield,NC,North Carolina,US,United States,Southeast,North America
+206,500,5,Small Business,Baker-Miller,18,80000,1998,Winston-Salem,NC,North Carolina,US,United States,Southeast,North America
+548,557,5,Corporate,Guzman PLC,40,150000,1978,Bluffton,SC,South Carolina,US,United States,Southeast,North America
+422,558,5,Person,Dylan Gonzalez,0,150000,1994,Gaffney,SC,South Carolina,US,United States,Southeast,North America
+386,559,5,Person,Shawn Reyes,0,150000,1984,Myrtle Beach,SC,South Carolina,US,United States,Southeast,North America
+404,562,5,Person,Eric Gould,0,150000,1975,Crossville,TN,Tennessee,US,United States,Southeast,North America
+333,563,5,Corporate,Evans Willis and Marks,43,150000,1984,Hixson,TN,Tennessee,US,United States,Southeast,North America
+567,570,5,Small Business,Harris-Griffin,19,80000,1979,Pigeon Forge,TN,Tennessee,US,United States,Southeast,North America
+467,603,5,Small Business,Blackwell Ltd,16,80000,1998,Falls Church,VA,Virginia,US,United States,Southeast,North America
+485,604,5,Small Business,Cortez Neal and Cruz,10,80000,1989,Leesburg,VA,Virginia,US,United States,Southeast,North America
+449,606,5,Small Business,Graham Ltd,14,80000,1998,Virginia Beach,VA,Virginia,US,United States,Southeast,North America
+612,405,5,Small Business,Wagner Powell and Petty,4,30000,1980,Hollywood,FL,Florida,US,United States,Southeast,North America
+627,497,5,Small Business,Hudson-Armstrong,8,30000,1979,Raleigh,NC,North Carolina,US,United States,Southeast,North America
+17,605,5,Person,Matthew Davis,0,100000,2005,Newport News,VA,Virginia,US,United States,Southeast,North America
+652,424,5,Person,Nicholas Evans,0,100000,2002,Marietta,GA,Georgia,US,United States,Southeast,North America
+127,634,1,Corporate,Sandoval LLC,55,300000,2003,Redmond,WA,Washington,US,United States,Northwest,North America
+145,634,1,Corporate,Mcconnell LLC,73,300000,2002,Redmond,WA,Washington,US,United States,Northwest,North America
+163,541,1,Corporate,Jones PLC,83,300000,1993,Klamath Falls,OR,Oregon,US,United States,Northwest,North America
+169,508,1,Corporate,Taylor-Ware,85,300000,1990,Fernley,NV,Nevada,US,United States,Northwest,North America
+181,538,1,Corporate,Stafford-Gonzalez,89,300000,1984,Clackamas,OR,Oregon,US,United States,Northwest,North America
+199,635,1,Corporate,Wilcox and Sons,95,300000,1984,Renton,WA,Washington,US,United States,Northwest,North America
+289,635,1,Person,Jeffrey Wright,0,150000,1978,Renton,WA,Washington,US,United States,Northwest,North America
+2,635,1,Person,Robert Becker,0,80000,1976,Renton,WA,Washington,US,United States,Northwest,North America
+217,640,1,Corporate,Stafford Baker and Strickland,66,300000,1983,Shelton,WA,Washington,US,United States,Northwest,North America
+236,637,1,Corporate,Henry Group,55,300000,2003,Seattle,WA,Washington,US,United States,Northwest,North America
+146,637,1,Small Business,Martinez Nguyen and Smith,14,80000,1995,Seattle,WA,Washington,US,United States,Northwest,North America
+1,637,1,Small Business,Taylor Group,2,30000,1974,Seattle,WA,Washington,US,United States,Northwest,North America
+397,637,1,Small Business,Lloyd Martinez and Dawson,3,30000,1985,Seattle,WA,Washington,US,United States,Northwest,North America
+254,608,1,Corporate,Middleton Fleming and White,73,300000,2002,Bellevue,WA,Washington,US,United States,Northwest,North America
+272,642,1,Corporate,Soto-Bryant,83,300000,1993,Tacoma,WA,Washington,US,United States,Northwest,North America
+577,642,1,Person,Michael Medina,0,150000,1999,Tacoma,WA,Washington,US,United States,Northwest,North America
+290,609,1,Corporate,Hunt Ltd,89,300000,1984,Bellingham,WA,Washington,US,United States,Northwest,North America
+293,597,1,Corporate,Burns Group,90,300000,1976,Park City,UT,Utah,US,United States,Northwest,North America
+308,616,1,Corporate,King LLC,95,300000,1984,Everett,WA,Washington,US,United States,Northwest,North America
+596,616,1,Corporate,Moore-Garcia,82,300000,1988,Everett,WA,Washington,US,United States,Northwest,North America
+326,622,1,Corporate,Townsend-Osborne,66,300000,1983,Kent,WA,Washington,US,United States,Northwest,North America
+451,544,1,Corporate,Moss Craig and Williams,52,300000,2002,Medford,OR,Oregon,US,United States,Northwest,North America
+55,544,1,Small Business,Hamilton Ward and Gonzalez,8,30000,1986,Medford,OR,Oregon,US,United States,Northwest,North America
+469,613,1,Corporate,Mathis Hall and Velasquez,70,300000,1997,Chehalis,WA,Washington,US,United States,Northwest,North America
+487,548,1,Corporate,Dickerson Torres and Nguyen,82,300000,1988,Salem,OR,Oregon,US,United States,Northwest,North America
+505,619,1,Corporate,Dean-Maddox,88,300000,1979,Kelso,WA,Washington,US,United States,Northwest,North America
+541,492,1,Corporate,Stewart LLC,100,300000,2003,Great Falls,MT,Montana,US,United States,Northwest,North America
+560,655,1,Corporate,Todd PLC,52,300000,2002,Rock Springs,WY,Wyoming,US,United States,Northwest,North America
+578,633,1,Corporate,Ramos PLC,70,300000,1997,Puyallup,WA,Washington,US,United States,Northwest,North America
+253,633,1,Person,Morgan Harris,0,150000,1996,Puyallup,WA,Washington,US,United States,Northwest,North America
+307,633,1,Person,Erin Mcintosh,0,150000,1982,Puyallup,WA,Washington,US,United States,Northwest,North America
+37,633,1,Small Business,Dunn-Clark,14,80000,1995,Puyallup,WA,Washington,US,United States,Northwest,North America
+605,641,1,Corporate,Valdez and Sons,85,300000,1990,Spokane,WA,Washington,US,United States,Northwest,North America
+362,641,1,Person,Dennis Russo,0,150000,1996,Spokane,WA,Washington,US,United States,Northwest,North America
+415,641,1,Small Business,Li Mcclain and King,12,80000,1980,Spokane,WA,Washington,US,United States,Northwest,North America
+620,654,1,Corporate,Williams Ltd,90,300000,1976,Cheyenne,WY,Wyoming,US,United States,Northwest,North America
+380,654,1,Person,Julia Cherry,0,150000,1987,Cheyenne,WY,Wyoming,US,United States,Northwest,North America
+626,509,1,Corporate,Green Lee and Montgomery,92,300000,1991,Las Vegas,NV,Nevada,US,United States,Northwest,North America
+401,509,1,Person,Mitchell Mitchell,0,150000,1983,Las Vegas,NV,Nevada,US,United States,Northwest,North America
+438,509,1,Person,John Garner,0,80000,1976,Las Vegas,NV,Nevada,US,United States,Northwest,North America
+644,549,1,Corporate,Banks-Powell,98,300000,2002,Springfield,OR,Oregon,US,United States,Northwest,North America
+650,511,1,Corporate,Myers Sawyer and Martinez,100,300000,2003,Reno,NV,Nevada,US,United States,Northwest,North America
+669,617,1,Corporate,Saxony Inc,52,300000,2002,Federal Way,WA,Washington,US,United States,Northwest,North America
+672,596,1,Corporate,Allen-Miller,55,300000,2003,Ogden,UT,Utah,US,United States,Northwest,North America
+693,540,1,Corporate,Hill Green and Cunningham,76,300000,1994,Hillsboro,OR,Oregon,US,United States,Northwest,North America
+696,598,1,Corporate,Bennett Huff and Rodriguez,79,300000,1999,Riverton,UT,Utah,US,United States,Northwest,North America
+38,491,1,Person,Crystal Kline,0,150000,2001,Billings,MT,Montana,US,United States,Northwest,North America
+56,547,1,Person,James Pierce,0,150000,1992,Portland,OR,Oregon,US,United States,Northwest,North America
+74,547,1,Person,Brittany Curtis,0,150000,1983,Portland,OR,Oregon,US,United States,Northwest,North America
+379,547,1,Small Business,Baker Doyle and Craig,9,30000,1994,Portland,OR,Oregon,US,United States,Northwest,North America
+92,647,1,Person,Parker Sanchez,0,150000,1988,Woodinville,WA,Washington,US,United States,Northwest,North America
+271,645,1,Person,Stephen Hernandez,0,150000,1987,Washougal,WA,Washington,US,United States,Northwest,North America
+110,428,1,Small Business,Short Ltd,2,30000,1974,Idaho Falls,ID,Idaho,US,United States,Northwest,North America
+488,429,1,Small Business,Conner-Fuller,9,30000,1994,Lewiston,ID,Idaho,US,United States,Northwest,North America
+398,430,1,Person,Linda Johnson,0,150000,1978,Sandpoint,ID,Idaho,US,United States,Northwest,North America
+115,512,1,Corporate,Craig Reynolds and Nelson,43,150000,1984,Sparks,NV,Nevada,US,United States,Northwest,North America
+416,643,1,Person,John Mcbride,0,150000,1982,Union Gap,WA,Washington,US,United States,Northwest,North America
+595,535,1,Person,Patrick Lopez,0,150000,1995,Albany,OR,Oregon,US,United States,Northwest,North America
+452,535,1,Small Business,Phillips PLC,17,80000,2004,Albany,OR,Oregon,US,United States,Northwest,North America
+91,536,1,Small Business,Wilson Howard and Allen,14,80000,1986,Beaverton,OR,Oregon,US,United States,Northwest,North America
+604,537,1,Person,Megan Navarro,0,150000,1984,Clackamas,OR,Oregon,US,United States,Northwest,North America
+182,545,1,Small Business,Miller PLC,2,30000,1977,Milwaukie,OR,Oregon,US,United States,Northwest,North America
+692,550,1,Person,Catherine Mendoza,0,150000,2001,Tigard,OR,Oregon,US,United States,Northwest,North America
+164,551,1,Small Business,Galvan Gordon and Smith,8,30000,1986,Troutdale,OR,Oregon,US,United States,Northwest,North America
+698,595,1,Person,Michael Fernandez,0,150000,1998,Cedar City,UT,Utah,US,United States,Northwest,North America
+43,599,1,Small Business,Hernandez Knight and Martin,12,80000,1992,Salt Lake City,UT,Utah,US,United States,Northwest,North America
+7,599,1,Small Business,Taylor Jones and Garcia,8,30000,1986,Salt Lake City,UT,Utah,US,United States,Northwest,North America
+601,600,1,Person,Paige Hayes,0,150000,1992,Sandy,UT,Utah,US,United States,Northwest,North America
+697,601,1,Small Business,Coleman Inc,12,80000,1992,Tooele,UT,Utah,US,United States,Northwest,North America
+343,615,1,Small Business,Kennedy Salazar and Martin,17,80000,2004,Ellensburg,WA,Washington,US,United States,Northwest,North America
+109,618,1,Small Business,Roy Hernandez and Munoz,17,80000,2001,Issaquah,WA,Washington,US,United States,Northwest,North America
+470,621,1,Small Business,Cortez Ltd,15,80000,2003,Kennewick,WA,Washington,US,United States,Northwest,North America
+542,623,1,Small Business,Nixon Group,18,80000,1979,Kirkland,WA,Washington,US,United States,Northwest,North America
+433,624,1,Small Business,Woods Miller and Herring,18,80000,1979,Lacey,WA,Washington,US,United States,Northwest,North America
+218,625,1,Small Business,Williams Garcia and Weaver,17,80000,2001,Longview,WA,Washington,US,United States,Northwest,North America
+73,630,1,Small Business,Martin Inc,2,30000,1977,North Bend,WA,Washington,US,United States,Northwest,North America
+200,632,1,Small Business,Maddox LLC,14,80000,1986,Port Orchard,WA,Washington,US,United States,Northwest,North America
+361,639,1,Small Business,Hensley Richardson and Flores,15,80000,2003,Sequim,WA,Washington,US,United States,Northwest,North America
+506,653,1,Small Business,Baldwin-Elliott,3,30000,1985,Casper,WY,Wyoming,US,United States,Northwest,North America
+621,609,1,Small Business,Davidson-Schneider,4,30000,1982,Bellingham,WA,Washington,US,United States,Northwest,North America
+19,610,1,Small Business,Munoz-Phillips,20,100000,2004,Bothell,WA,Washington,US,United States,Northwest,North America
+20,622,1,Person,Steven Juarez,0,100000,1975,Kent,WA,Washington,US,United States,Northwest,North America
+128,646,1,Small Business,Harrington and Sons,20,100000,2004,Wenatchee,WA,Washington,US,United States,Northwest,North America
+235,626,1,Person,Amanda Flores,0,100000,2005,Lynnwood,WA,Washington,US,United States,Northwest,North America
+325,610,1,Person,Jessica Johnson,0,100000,2002,Bothell,WA,Washington,US,United States,Northwest,North America
+344,616,1,Person,Mason Williams,0,100000,2005,Everett,WA,Washington,US,United States,Northwest,North America
+434,493,1,Person,James Benitez,0,100000,2002,Missoula,MT,Montana,US,United States,Northwest,North America
+559,654,1,Person,Nicholas Gay,0,100000,2000,Cheyenne,WY,Wyoming,US,United States,Northwest,North America
+564,510,1,Small Business,Walker-Page,20,100000,2004,North Las Vegas,NV,Nevada,US,United States,Northwest,North America
+645,536,1,Small Business,Yu Foster and Franklin,20,100000,2004,Beaverton,OR,Oregon,US,United States,Northwest,North America
+668,619,1,Person,Susan Hill,0,100000,2000,Kelso,WA,Washington,US,United States,Northwest,North America
+673,594,1,Small Business,Williams-Davidson,20,100000,2004,Bountiful,UT,Utah,US,United States,Northwest,North America
+30,110,6,Corporate,Melendez-Shea,67,300000,1995,Quebec,QC,Quebec,CA,Canada,Canada,North America
+550,110,6,Person,Christian Rhodes,0,80000,1982,Quebec,QC,Quebec,CA,Canada,Canada,North America
+48,106,6,Corporate,Peterson and Sons,81,300000,1996,Montreal,QC,Quebec,CA,Canada,Canada,North America
+281,106,6,Corporate,Marquez Group,86,300000,1982,Montreal,QC,Quebec,CA,Canada,Canada,North America
+156,106,6,Person,Brittany Burns,0,150000,1990,Montreal,QC,Quebec,CA,Canada,Canada,North America
+407,106,6,Person,Anthony Smith,0,150000,1980,Montreal,QC,Quebec,CA,Canada,Canada,North America
+586,106,6,Person,Allison Rodriguez,0,150000,1993,Montreal,QC,Quebec,CA,Canada,Canada,North America
+246,106,6,Small Business,Lopez Sandoval and Gomez,17,80000,1991,Montreal,QC,Quebec,CA,Canada,Canada,North America
+66,48,6,Corporate,Johnson Cannon and Lang,87,300000,1987,Burnaby,BC,British Columbia,CA,Canada,Canada,North America
+84,78,6,Corporate,Frank-Turner,93,300000,1978,Etobicoke,ON,Ontario,CA,Canada,Canada,North America
+425,78,6,Person,Amy Mullins,0,150000,2000,Etobicoke,ON,Ontario,CA,Canada,Canada,North America
+102,96,6,Corporate,Douglas and Sons,99,300000,2003,Toronto,ON,Ontario,CA,Canada,Canada,North America
+208,96,6,Corporate,White Ltd,98,300000,2002,Toronto,ON,Ontario,CA,Canada,Canada,North America
+192,96,6,Person,James Robinson,0,150000,1992,Toronto,ON,Ontario,CA,Canada,Canada,North America
+12,96,6,Corporate,James-Williams,49,150000,1996,Toronto,ON,Ontario,CA,Canada,Canada,North America
+118,96,6,Corporate,Frenchie Co,46,150000,1990,Toronto,ON,Ontario,CA,Canada,Canada,North America
+11,96,6,Person,Katherine Bird,0,80000,1994,Toronto,ON,Ontario,CA,Canada,Canada,North America
+155,96,6,Small Business,Williams Dixon and Phillips,11,80000,1997,Toronto,ON,Ontario,CA,Canada,Canada,North America
+191,96,6,Small Business,Wilson-Mendez,8,30000,1979,Toronto,ON,Ontario,CA,Canada,Canada,North America
+136,41,6,Corporate,Wallace Davis and Mack,64,300000,2000,Calgary,AB,Alberta,CA,Canada,Canada,North America
+190,41,6,Corporate,Hawkins PLC,92,300000,1991,Calgary,AB,Alberta,CA,Canada,Canada,North America
+354,41,6,Corporate,Thomas Briggs and Silva,64,300000,2000,Calgary,AB,Alberta,CA,Canada,Canada,North America
+629,41,6,Corporate,Miranda-Hansen,93,300000,1978,Calgary,AB,Alberta,CA,Canada,Canada,North America
+701,41,6,Corporate,Harris-Patrick,81,300000,1996,Calgary,AB,Alberta,CA,Canada,Canada,North America
+262,41,6,Person,Jennifer Austin,0,150000,1998,Calgary,AB,Alberta,CA,Canada,Canada,North America
+444,41,6,Person,Daniel Morris,0,80000,1988,Calgary,AB,Alberta,CA,Canada,Canada,North America
+46,41,6,Small Business,Miller Inc,11,80000,1997,Calgary,AB,Alberta,CA,Canada,Canada,North America
+137,41,6,Small Business,Perez-Haynes,17,80000,1991,Calgary,AB,Alberta,CA,Canada,Canada,North America
+370,41,6,Small Business,Jones-Hurst,12,80000,1992,Calgary,AB,Alberta,CA,Canada,Canada,North America
+154,68,6,Corporate,Atkinson-Mcguire,80,300000,1991,Vancouver,BC,British Columbia,CA,Canada,Canada,North America
+138,68,6,Person,Sharon Silva,0,150000,1999,Vancouver,BC,British Columbia,CA,Canada,Canada,North America
+82,68,6,Small Business,Gonzales-Powers,8,30000,1979,Vancouver,BC,British Columbia,CA,Canada,Canada,North America
+173,68,6,Small Business,Flores-Palmer,5,30000,1988,Vancouver,BC,British Columbia,CA,Canada,Canada,North America
+388,68,6,Small Business,Taylor Brock and Burch,6,30000,1983,Vancouver,BC,British Columbia,CA,Canada,Canada,North America
+172,61,6,Corporate,Zimmerman Perez and Bush,86,300000,1982,Richmond,BC,British Columbia,CA,Canada,Canada,North America
+408,61,6,Corporate,Harvey LLC,92,300000,1991,Richmond,BC,British Columbia,CA,Canada,Canada,North America
+478,61,6,Corporate,Smith-Zamora,79,300000,1999,Richmond,BC,British Columbia,CA,Canada,Canada,North America
+514,61,6,Corporate,Schmidt Hardy and Wright,91,300000,1981,Richmond,BC,British Columbia,CA,Canada,Canada,North America
+462,61,6,Person,Tanya Sawyer,0,150000,1987,Richmond,BC,British Columbia,CA,Canada,Canada,North America
+497,61,6,Small Business,Davis Foley and Silva,6,30000,1983,Richmond,BC,British Columbia,CA,Canada,Canada,North America
+245,101,6,Corporate,Harris LLC,64,300000,2000,Brossard,QC,Quebec,CA,Canada,Canada,North America
+263,46,6,Corporate,Lynch Stewart and Mason,80,300000,1991,Burnaby,BC,British Columbia,CA,Canada,Canada,North America
+299,73,6,Corporate,Moore Sanchez and Davis,92,300000,1991,Saint John,NB,Brunswick,CA,Canada,Canada,North America
+317,45,6,Corporate,Martinez Romero and Simpson,98,300000,2002,Burnaby,BC,British Columbia,CA,Canada,Canada,North America
+372,80,6,Corporate,Wagner-Bowman,80,300000,1991,Kingston,ON,Ontario,CA,Canada,Canada,North America
+516,80,6,Person,Becky Huang,0,150000,1980,Kingston,ON,Ontario,CA,Canada,Canada,North America
+390,98,6,Corporate,Williams-Salas,86,300000,1982,Waterloo,ON,Ontario,CA,Canada,Canada,North America
+334,98,6,Small Business,Robles Inc,8,30000,1986,Waterloo,ON,Ontario,CA,Canada,Canada,North America
+426,76,6,Corporate,Taylor Weber and Fletcher,98,300000,2002,Brampton,ON,Ontario,CA,Canada,Canada,North America
+460,100,6,Corporate,Brennan Inc,61,300000,1983,Brossard,QC,Quebec,CA,Canada,Canada,North America
+496,42,6,Corporate,Neal PLC,85,300000,1990,Edmonton,AB,Alberta,CA,Canada,Canada,North America
+352,42,6,Small Business,Burns Oliver and Spencer,18,80000,2001,Edmonton,AB,Alberta,CA,Canada,Canada,North America
+526,88,6,Corporate,Bridges Cunningham and Sandoval,95,300000,1984,Ottawa,ON,Ontario,CA,Canada,Canada,North America
+83,88,6,Person,Michael Hamilton,0,150000,1992,Ottawa,ON,Ontario,CA,Canada,Canada,North America
+677,88,6,Person,Erika Blair,0,150000,2002,Ottawa,ON,Ontario,CA,Canada,Canada,North America
+532,79,6,Corporate,Sanchez Archer and Gilbert,97,300000,1996,Kanata,ON,Ontario,CA,Canada,Canada,North America
+569,85,6,Corporate,Clayton Willis and Gibson,61,300000,1983,Nepean,ON,Ontario,CA,Canada,Canada,North America
+587,89,6,Corporate,Ramirez-Osborne,79,300000,1999,Ottawa,ON,Ontario,CA,Canada,Canada,North America
+653,93,6,Corporate,Aguirre-White,66,300000,1983,Toronto,ON,Ontario,CA,Canada,Canada,North America
+678,93,6,Corporate,Duran Moreno and Newton,61,300000,1983,Toronto,ON,Ontario,CA,Canada,Canada,North America
+631,93,6,Person,Stacey Lozano,0,150000,1976,Toronto,ON,Ontario,CA,Canada,Canada,North America
+637,93,6,Person,Dana Riggs,0,150000,1988,Toronto,ON,Ontario,CA,Canada,Canada,North America
+630,93,6,Small Business,Jackson-Campbell,10,80000,1974,Toronto,ON,Ontario,CA,Canada,Canada,North America
+29,77,6,Person,Kimberly Vazquez,0,150000,1999,Chalk Riber,ON,Ontario,CA,Canada,Canada,North America
+47,95,6,Person,Katie Williams,0,150000,1990,Toronto,ON,Ontario,CA,Canada,Canada,North America
+28,95,6,Small Business,Baker PLC,17,80000,1991,Toronto,ON,Ontario,CA,Canada,Canada,North America
+64,95,6,Small Business,Wheeler Evans and Harris,5,30000,1988,Toronto,ON,Ontario,CA,Canada,Canada,North America
+65,99,6,Person,Melissa Ferguson,0,150000,1981,Weston,ON,Ontario,CA,Canada,Canada,North America
+174,67,6,Person,Douglas Mckenzie,0,150000,1981,Surrey,BC,British Columbia,CA,Canada,Canada,North America
+371,67,6,Person,Joseph Miller,0,150000,1998,Surrey,BC,British Columbia,CA,Canada,Canada,North America
+389,67,6,Person,Michael Lowery,0,150000,1989,Surrey,BC,British Columbia,CA,Canada,Canada,North America
+244,107,6,Person,Gary Walter,0,150000,1987,Montreal,QC,Quebec,CA,Canada,Canada,North America
+336,107,6,Corporate,Lewis Lee and Mccormick,46,150000,1990,Montreal,QC,Quebec,CA,Canada,Canada,North America
+685,107,6,Small Business,Hawkins-Castro,16,80000,1998,Montreal,QC,Quebec,CA,Canada,Canada,North America
+280,75,6,Person,Mrs. Teresa Castillo,0,150000,1989,Barrie,ON,Ontario,CA,Canada,Canada,North America
+298,72,6,Person,Christine Phillips,0,150000,1980,Winnipeg,MB,Manitoba,CA,Canada,Canada,North America
+353,72,6,Person,Joshua Murphy,0,150000,1987,Winnipeg,MB,Manitoba,CA,Canada,Canada,North America
+316,83,6,Person,Brandon Perez,0,150000,2000,Mississauga,ON,Ontario,CA,Canada,Canada,North America
+480,84,6,Person,Karen Mills,0,150000,1998,Mississauga,ON,Ontario,CA,Canada,Canada,North America
+498,84,6,Person,Molly Glass,0,150000,1989,Mississauga,ON,Ontario,CA,Canada,Canada,North America
+534,84,6,Person,Jessica Richards,0,150000,2000,Mississauga,ON,Ontario,CA,Canada,Canada,North America
+461,84,6,Small Business,Reyes and Sons,18,80000,2001,Mississauga,ON,Ontario,CA,Canada,Canada,North America
+568,94,6,Person,Austin Munoz,0,150000,2002,Toronto,ON,Ontario,CA,Canada,Canada,North America
+227,94,6,Corporate,Williams-Watson,46,150000,1990,Toronto,ON,Ontario,CA,Canada,Canada,North America
+442,94,6,Corporate,Reed Briggs and Kelly,43,150000,1984,Toronto,ON,Ontario,CA,Canada,Canada,North America
+551,94,6,Corporate,Norman Group,43,150000,1984,Toronto,ON,Ontario,CA,Canada,Canada,North America
+264,94,6,Small Business,Jackson Scott and Smith,11,80000,1997,Toronto,ON,Ontario,CA,Canada,Canada,North America
+552,94,6,Small Business,Forbes Carlson and Anderson,8,30000,1986,Toronto,ON,Ontario,CA,Canada,Canada,North America
+613,97,6,Person,Susan Brown,0,150000,1986,Vancouver,ON,Ontario,CA,Canada,Canada,North America
+10,44,6,Small Business,Hernandez-Andrade,11,80000,1992,Burnaby,BC,British Columbia,CA,Canada,Canada,North America
+120,105,6,Person,Richard Wu MD,0,80000,1994,Montreal,QC,Quebec,CA,Canada,Canada,North America
+570,105,6,Small Business,Martinez Robinson and Marshall,18,80000,2001,Montreal,QC,Quebec,CA,Canada,Canada,North America
+588,47,6,Small Business,Freeman Morgan and Walker,12,80000,1992,Burnaby,BC,British Columbia,CA,Canada,Canada,North America
+226,103,6,Person,Lisa Pugh,0,80000,1988,Hull,QC,Quebec,CA,Canada,Canada,North America
+335,82,6,Person,Lawrence Martin,0,80000,1988,Mississauga,ON,Ontario,CA,Canada,Canada,North America
+654,74,6,Small Business,West-Farrell,17,80000,2001,Aurora,ON,Ontario,CA,Canada,Canada,North America
+515,86,6,Small Business,Gonzalez and Sons,6,30000,1974,North York,ON,Ontario,CA,Canada,Canada,North America
+119,109,6,Small Business,King Ltd,11,80000,1992,Pnot-Rouge,QC,Quebec,CA,Canada,Canada,North America
+228,87,6,Small Business,Dunn-Gutierrez,11,80000,1992,Ottawa,ON,Ontario,CA,Canada,Canada,North America
+300,90,6,Small Business,Mclaughlin PLC,8,30000,1979,Ottawa,ON,Ontario,CA,Canada,Canada,North America
+424,91,6,Small Business,Mendoza and Sons,18,80000,1998,Richmond Hill,ON,Ontario,CA,Canada,Canada,North America
+443,91,6,Small Business,Estrada LLC,8,30000,1986,Richmond Hill,ON,Ontario,CA,Canada,Canada,North America
+679,104,6,Small Business,Rogers Ltd,18,80000,2001,Montreal,QC,Quebec,CA,Canada,Canada,North America
+406,108,6,Small Business,Hester Group,6,30000,1974,Outremont,QC,Quebec,CA,Canada,Canada,North America
+282,111,6,Small Business,Gordon LLC,5,30000,1988,Sainte-Foy,QC,Quebec,CA,Canada,Canada,North America
+533,112,6,Small Business,Hill Martinez and Green,18,80000,1998,Sillery,QC,Quebec,CA,Canada,Canada,North America
+479,113,6,Small Business,Smith LLC,12,80000,1992,Ville De'anjou,QC,Quebec,CA,Canada,Canada,North America
+655,102,6,Small Business,Cox-Gonzalez,2,30000,1974,Dorval,QC,Quebec,CA,Canada,Canada,North America
+661,41,6,Small Business,Olson-Rodriguez,8,30000,1986,Calgary,AB,Alberta,CA,Canada,Canada,North America
+100,81,6,Small Business,George-Hoffman,20,100000,2004,Markham,ON,Ontario,CA,Canada,Canada,North America
+101,96,6,Person,April Jones,0,100000,2005,Toronto,ON,Ontario,CA,Canada,Canada,North America
+209,92,6,Small Business,Stevens PLC,20,100000,2004,Scarborough,ON,Ontario,CA,Canada,Canada,North America
+210,94,6,Person,Tanya Reeves,0,100000,2005,Toronto,ON,Ontario,CA,Canada,Canada,North America
+318,69,6,Small Business,Curry-Mendoza,20,100000,2004,Victoria,BC,British Columbia,CA,Canada,Canada,North America
+15,6,9,Corporate,Matthews-Guerra,52,300000,2002,Sao Paulo,SP,Sao Paulo,BR,Brazil,Brazil,South America
+33,6,9,Corporate,Harmon Inc,70,300000,1997,Sao Paulo,SP,Sao Paulo,BR,Brazil,Brazil,South America
+69,6,9,Corporate,Delgado-Rodriguez,88,300000,1979,Sao Paulo,SP,Sao Paulo,BR,Brazil,Brazil,South America
+141,6,9,Person,Charlene Rollins,0,150000,1999,Sao Paulo,SP,Sao Paulo,BR,Brazil,Brazil,South America
+231,6,9,Small Business,Murphy-Harding,14,80000,1998,Sao Paulo,SP,Sao Paulo,BR,Brazil,Brazil,South America
+51,28,9,Corporate,Ortega-Schultz,82,300000,1988,Natal,RN,Rio Grande do Norte,BR,Brazil,Brazil,South America
+87,5,9,Corporate,Ford LLC,94,300000,1978,Curitiba,PR,Parana,BR,Brazil,Brazil,South America
+105,1,9,Corporate,Torres Zimmerman and Martinez,100,300000,2003,Canoas,RS,Rio Grande do Sul,BR,Brazil,Brazil,South America
+124,270,10,Corporate,Perez-Fitzpatrick,52,300000,2002,W. York,ENG,England,GB,United Kingdom,United Kingdom,Europe
+178,270,10,Corporate,Kelley Harris and Hernandez,88,300000,1979,W. York,ENG,England,GB,United Kingdom,United Kingdom,Europe
+139,215,7,Corporate,Walker-Wolfe,67,300000,1995,Colombes,92,Hauts de Seine,FR,France,France,Europe
+229,215,7,Person,Destiny Garcia,0,80000,1994,Colombes,92,Hauts de Seine,FR,France,France,Europe
+142,268,10,Corporate,Garcia-Dominguez,70,300000,1997,Liverpool,ENG,England,GB,United Kingdom,United Kingdom,Europe
+157,204,7,Corporate,Rodriguez-Berg,81,300000,1996,Paris,75,Seine (Paris),FR,France,France,Europe
+301,204,7,Person,Brittany Henderson,0,150000,1992,Paris,75,Seine (Paris),FR,France,France,Europe
+160,264,10,Corporate,Miller-Spencer,82,300000,1988,Oxon,ENG,England,GB,United Kingdom,United Kingdom,Europe
+175,183,7,Corporate,Davis Martinez and Jackson,87,300000,1987,Orleans,45,Loiret,FR,France,France,Europe
+499,183,7,Corporate,Davies Garcia and Carroll,86,300000,1982,Orleans,45,Loiret,FR,France,France,Europe
+193,180,7,Corporate,Carson-Hendrix,93,300000,1978,Colomiers,31,Garonne (Haute),FR,France,France,Europe
+196,260,10,Corporate,Jackson-Mcdonald,94,300000,1978,Milton Keynes,ENG,England,GB,United Kingdom,United Kingdom,Europe
+88,260,10,Small Business,Walker Ramirez and Evans,12,80000,1980,Milton Keynes,ENG,England,GB,United Kingdom,United Kingdom,Europe
+211,205,7,Corporate,Ross French and White,99,300000,2003,Lieusaint,77,Seine et Marne,FR,France,France,Europe
+214,242,10,Corporate,Anderson Hahn and Crawford,100,300000,2003,Lancaster,ENG,England,GB,United Kingdom,United Kingdom,Europe
+248,178,8,Corporate,Jones-Adams,67,300000,1995,Sulzbach Taunus,SL,Saarland,DE,Germany,Germany,Europe
+681,178,8,Corporate,Caldwell-Gardner,64,300000,2000,Sulzbach Taunus,SL,Saarland,DE,Germany,Germany,Europe
+266,119,8,Corporate,Wood PLC,81,300000,1996,Grevenbroich,BY,Bayern,DE,Germany,Germany,Europe
+284,153,8,Corporate,Rios Inc,87,300000,1987,Berlin,NW,Nordrhein-Westfalen,DE,Germany,Germany,Europe
+302,172,8,Corporate,Schmidt Hardy and Wright,93,300000,1978,Offenbach,SL,Saarland,DE,Germany,Germany,Europe
+320,145,8,Corporate,Moran Lyons and Marshall,99,300000,2003,Frankfurt am Main,HH,Hamburg,DE,Germany,Germany,Europe
+357,29,9,Corporate,Lee Group,67,300000,1995,Campinas,SP,Sao Paulo,BR,Brazil,Brazil,South America
+375,22,9,Corporate,Shelton Clark and Roberts,81,300000,1996,Palmas,TO,Tocantins,BR,Brazil,Brazil,South America
+393,9,9,Corporate,Stevenson-Kaufman,87,300000,1987,Porto Alegre,RS,Rio Grande do Sul,BR,Brazil,Brazil,South America
+411,12,9,Corporate,Johnson-Rodriguez,93,300000,1978,Manaus,AM,Amazonas,BR,Brazil,Brazil,South America
+195,12,9,Person,Jennifer Decker,0,150000,1976,Manaus,AM,Amazonas,BR,Brazil,Brazil,South America
+303,12,9,Small Business,Vasquez Walter and Jones,10,80000,1974,Manaus,AM,Amazonas,BR,Brazil,Brazil,South America
+429,15,9,Corporate,Olson PLC,99,300000,2003,Brasilia,DF,Distrito Federal,BR,Brazil,Brazil,South America
+463,211,7,Corporate,Rodriguez Turner and Robinson,64,300000,2000,Les Ulis,91,Essonne,FR,France,France,Europe
+517,211,7,Corporate,Martinez-Smith,92,300000,1991,Les Ulis,91,Essonne,FR,France,France,Europe
+13,211,7,Small Business,Anderson-Clark,14,80000,1998,Les Ulis,91,Essonne,FR,France,France,Europe
+373,211,7,Small Business,Alvarez-Keith,11,80000,1997,Les Ulis,91,Essonne,FR,France,France,Europe
+466,258,10,Corporate,Briggs Ltd,67,300000,1995,Maidenhead,ENG,England,GB,United Kingdom,United Kingdom,Europe
+481,182,7,Corporate,Smith Davis and Walker,80,300000,1991,Saint Ouen,41,Loir et Cher,FR,France,France,Europe
+121,182,7,Corporate,Jackson-Arnold,49,150000,1996,Saint Ouen,41,Loir et Cher,FR,France,France,Europe
+484,229,10,Corporate,Black Group,81,300000,1996,Berks,ENG,England,GB,United Kingdom,United Kingdom,Europe
+502,254,10,Corporate,Sheppard Scott and Weeks,87,300000,1987,London,ENG,England,GB,United Kingdom,United Kingdom,Europe
+520,253,10,Corporate,King Black and Schmidt,93,300000,1978,London,ENG,England,GB,United Kingdom,United Kingdom,Europe
+535,226,7,Corporate,Gross Inc,98,300000,2002,Cergy,95,Val d'Oise,FR,France,France,Europe
+538,245,10,Corporate,Gonzales and Sons,99,300000,2003,London,ENG,England,GB,United Kingdom,United Kingdom,Europe
+572,156,8,Corporate,Acosta Acosta and Thompson,64,300000,2000,Braunschweig,NW,Nordrhein-Westfalen,DE,Germany,Germany,Europe
+590,173,8,Corporate,Hudson Williams and Sanchez,80,300000,1991,Poing,SL,Saarland,DE,Germany,Germany,Europe
+614,203,7,Corporate,Johnson Gonzales and Garcia,88,300000,1979,Paris,75,Seine (Paris),FR,France,France,Europe
+617,263,10,Corporate,Webster Mcdonald and Campbell,89,300000,1984,Oxford,ENG,England,GB,United Kingdom,United Kingdom,Europe
+632,212,7,Corporate,Salazar Group,94,300000,1978,Morangis,91,Essonne,FR,France,France,Europe
+635,235,10,Corporate,Shelton Clark and Roberts,95,300000,1984,Cambridge,ENG,England,GB,United Kingdom,United Kingdom,Europe
+638,200,7,Corporate,Frazier-Sutton,96,300000,1990,Paris,75,Seine (Paris),FR,France,France,Europe
+641,252,10,Corporate,Shea Inc,97,300000,1996,London,ENG,England,GB,United Kingdom,United Kingdom,Europe
+687,159,8,Corporate,Brown and Sons,70,300000,1997,München,NW,Nordrhein-Westfalen,DE,Germany,Germany,Europe
+32,177,8,Person,Christopher Rodgers,0,150000,1999,Stuttgart,SL,Saarland,DE,Germany,Germany,Europe
+338,177,8,Person,Brittany Ellison,0,80000,1994,Stuttgart,SL,Saarland,DE,Germany,Germany,Europe
+50,114,8,Person,Leslie Johnson,0,150000,1995,Berlin,BB,Brandenburg,DE,Germany,Germany,Europe
+68,148,8,Person,Kathleen Burton,0,150000,1986,Muehlheim,HH,Hamburg,DE,Germany,Germany,Europe
+86,144,8,Person,Diane Francis,0,150000,1976,Essen,HH,Hamburg,DE,Germany,Germany,Europe
+159,11,9,Person,David Jenkins,0,150000,1995,Salvador,BA,Bahia,BR,Brazil,Brazil,South America
+285,11,9,Small Business,Herrera Ford and Fritz,4,30000,1980,Salvador,BA,Bahia,BR,Brazil,Brazil,South America
+177,24,9,Person,Justin Rodriguez,0,150000,1986,Maceió,AL,Alagoas,BR,Brazil,Brazil,South America
+247,225,7,Person,Michael Sullivan,0,150000,1999,Orly,94,Val de Marne,FR,France,France,Europe
+250,250,10,Person,Ronald Durham,0,150000,1999,London,ENG,England,GB,United Kingdom,United Kingdom,Europe
+265,202,7,Person,Seth Greene,0,150000,1990,Paris,75,Seine (Paris),FR,France,France,Europe
+268,240,10,Person,Alexis Kelly,0,150000,1995,High Wycombe,ENG,England,GB,United Kingdom,United Kingdom,Europe
+283,206,7,Person,Elizabeth Bell,0,150000,1981,Roissy en Brie,77,Seine et Marne,FR,France,France,Europe
+286,266,10,Person,Robert Richmond,0,150000,1986,Reading,ENG,England,GB,United Kingdom,United Kingdom,Europe
+304,227,10,Person,Douglas Miller,0,150000,1976,Abingdon,ENG,England,GB,United Kingdom,United Kingdom,Europe
+356,132,8,Person,Catherine Kelly,0,150000,1999,Hamburg,HE,Hessen,DE,Germany,Germany,Europe
+374,135,8,Person,Kevin Reid,0,150000,1990,Salzgitter,HE,Hessen,DE,Germany,Germany,Europe
+392,147,8,Person,Shannon Carter,0,150000,1981,Hamburg,HH,Hamburg,DE,Germany,Germany,Europe
+410,168,8,Person,Lisa Douglas,0,150000,1992,Kiel,SL,Saarland,DE,Germany,Germany,Europe
+465,17,9,Person,Ronald Davis,0,150000,1999,Joinville,SC,Santa Catarina,BR,Brazil,Brazil,South America
+483,14,9,Person,Ashley Johnson,0,150000,1990,Rio de Janeiro,RJ,Rio de Janeiro,BR,Brazil,Brazil,South America
+634,14,9,Person,Maria Snyder,0,150000,1982,Rio de Janeiro,RJ,Rio de Janeiro,BR,Brazil,Brazil,South America
+573,14,9,Small Business,Wiggins LLC,17,80000,1991,Rio de Janeiro,RJ,Rio de Janeiro,BR,Brazil,Brazil,South America
+501,7,9,Person,Kenneth Franco,0,150000,1981,João Pessoa,PB,Paraíba,BR,Brazil,Brazil,South America
+519,35,9,Person,Jason Eaton,0,150000,1992,Belo Horizonte,MG,Minas Gerais,BR,Brazil,Brazil,South America
+267,35,9,Small Business,Fritz Ingram and Ross,10,80000,1989,Belo Horizonte,MG,Minas Gerais,BR,Brazil,Brazil,South America
+591,35,9,Small Business,Frost-Wilson,11,80000,1997,Belo Horizonte,MG,Minas Gerais,BR,Brazil,Brazil,South America
+664,35,9,Small Business,Reynolds Pruitt and Leblanc,11,80000,1992,Belo Horizonte,MG,Minas Gerais,BR,Brazil,Brazil,South America
+571,191,7,Person,Deborah Gonzalez,0,150000,1987,Boulogne-sur-Mer,62,Pas de Calais,FR,France,France,Europe
+574,246,10,Person,Jeffrey Reynolds,0,150000,1999,London,ENG,England,GB,United Kingdom,United Kingdom,Europe
+589,198,7,Person,Suzanne Lloyd,0,150000,1998,Paris,75,Seine (Paris),FR,France,France,Europe
+592,251,10,Person,Janet Durham,0,150000,1990,London,ENG,England,GB,United Kingdom,United Kingdom,Europe
+616,8,9,Person,Kevin Bentley,0,150000,1978,Sao Luís,MA,Maranhao,BR,Brazil,Brazil,South America
+339,8,9,Corporate,Golden and Sons,49,150000,1996,Sao Luís,MA,Maranhao,BR,Brazil,Brazil,South America
+321,8,9,Small Business,Robinson Ltd,19,80000,2004,Sao Luís,MA,Maranhao,BR,Brazil,Brazil,South America
+640,30,9,Person,Matthew Stanley,0,150000,1994,Duque de Caxias,RJ,Rio de Janeiro,BR,Brazil,Brazil,South America
+680,218,7,Person,John Neal,0,150000,1987,Sevres,92,Hauts de Seine,FR,France,France,Europe
+683,257,10,Person,Gary Chen,0,150000,1999,London,ENG,England,GB,United Kingdom,United Kingdom,Europe
+686,219,7,Person,Isabel Brown,0,150000,1999,Suresnes,92,Hauts de Seine,FR,France,France,Europe
+689,249,10,Person,Carolyn Thomas DDS,0,150000,1996,London,ENG,England,GB,United Kingdom,United Kingdom,Europe
+555,3,9,Small Business,Thomas Fields and Kline,11,80000,1992,Goiânia,GO,Goiânia,BR,Brazil,Brazil,South America
+230,122,8,Corporate,White Group,49,150000,1996,Bad Soden,HE,Hessen,DE,Germany,Germany,Europe
+682,10,9,Small Business,Reed-Moore,17,80000,1991,Florianópolis,SC,Santa Catarina,BR,Brazil,Brazil,South America
+445,222,7,Corporate,Valentine Clark and Garcia,46,150000,1990,Pantin,93,Seine Saint Denis,FR,France,France,Europe
+103,222,7,Small Business,Reyes Hines and Flores,19,80000,2004,Pantin,93,Seine Saint Denis,FR,France,France,Europe
+448,276,10,Corporate,Salazar Group,49,150000,1996,Woolston,ENG,England,GB,United Kingdom,United Kingdom,Europe
+447,16,9,Person,Terry Osborne,0,80000,1994,Uberaba,MG,Minas Gerais,BR,Brazil,Brazil,South America
+554,151,8,Corporate,Duran Moreno and Newton,46,150000,1990,Paderborn,HH,Hamburg,DE,Germany,Germany,Europe
+688,18,9,Small Business,Morris Johnson and Thomas,15,80000,2003,Fortaleza,CE,Ceará,BR,Brazil,Brazil,South America
+657,136,8,Corporate,Postobon,40,150000,1978,Ascheim,HH,Hamburg,DE,Germany,Germany,Europe
+663,137,8,Corporate,D1 Ltda,46,150000,1990,Augsburg,HH,Hamburg,DE,Germany,Germany,Europe
+249,37,9,Small Business,Church-Burnett,16,80000,1998,Recife,PE,Pernambuco,BR,Brazil,Brazil,South America
+553,197,7,Person,Scott Clark,0,80000,1988,Paris,75,Seine (Paris),FR,France,France,Europe
+556,256,10,Person,Taylor Blackwell,0,80000,1994,London,ENG,England,GB,United Kingdom,United Kingdom,Europe
+656,196,7,Person,Jordan Elliott,0,80000,1976,Paris,75,Seine (Paris),FR,France,France,Europe
+659,248,10,Person,Melanie Cabrera,0,80000,1982,London,ENG,England,GB,United Kingdom,United Kingdom,Europe
+662,185,7,Person,Sharon Wagner,0,80000,1988,Croix,59,Nord,FR,France,France,Europe
+665,255,10,Person,Paige Knapp,0,80000,1994,London,ENG,England,GB,United Kingdom,United Kingdom,Europe
+16,247,10,Small Business,Bryan-Clark,17,80000,2004,London,ENG,England,GB,United Kingdom,United Kingdom,Europe
+31,201,7,Small Business,Yang Russell and Martin,16,80000,1998,Paris,75,Seine (Paris),FR,France,France,Europe
+34,272,10,Small Business,Gilbert Hayes and Garcia,15,80000,2003,Warrington,ENG,England,GB,United Kingdom,United Kingdom,Europe
+49,188,7,Small Business,Gibson-Martin,10,80000,1989,Roncq,59,Nord,FR,France,France,Europe
+85,216,7,Small Business,Casey PLC,10,80000,1974,Courbevoie,92,Hauts de Seine,FR,France,France,Europe
+106,275,10,Small Business,Duffy-Jennings,18,80000,1979,Wokingham,ENG,England,GB,United Kingdom,United Kingdom,Europe
+122,125,8,Small Business,White and Sons,14,80000,1998,Berlin,HE,Hessen,DE,Germany,Germany,Europe
+518,125,8,Small Business,Snyder Group,8,30000,1979,Berlin,HE,Hessen,DE,Germany,Germany,Europe
+140,143,8,Small Business,Rhodes-Davis,16,80000,1998,Bonn,HH,Hamburg,DE,Germany,Germany,Europe
+158,154,8,Small Business,Barnes Estrada and Joyce,10,80000,1989,Bonn,NW,Nordrhein-Westfalen,DE,Germany,Germany,Europe
+194,150,8,Small Business,Ward Group,10,80000,1974,München,HH,Hamburg,DE,Germany,Germany,Europe
+212,134,8,Small Business,Flowers-Yates,19,80000,2004,München,HE,Hessen,DE,Germany,Germany,Europe
+482,115,8,Small Business,Collins-Rodriguez,11,80000,1997,Eilenburg,BB,Brandenburg,DE,Germany,Germany,Europe
+633,116,8,Small Business,Stone Ltd,12,80000,1980,Augsburg,BY,Bayern,DE,Germany,Germany,Europe
+639,118,8,Small Business,Underwood Davis and Rogers,16,80000,1992,Frankfurt,BY,Bayern,DE,Germany,Germany,Europe
+500,128,8,Small Business,Braun George and Long,5,30000,1988,Dresden,HE,Hessen,DE,Germany,Germany,Europe
+337,217,7,Small Business,Clayton Inc,11,80000,1992,Paris La Defense,92,Hauts de Seine,FR,France,France,Europe
+340,274,10,Small Business,Jones-Lindsey,14,80000,1998,West Sussex,ENG,England,GB,United Kingdom,United Kingdom,Europe
+355,193,7,Small Business,Ramos Group,17,80000,1991,Paris,75,Seine (Paris),FR,France,France,Europe
+358,277,10,Small Business,Chang Spencer and Gonzalez,16,80000,1998,York,ENG,England,GB,United Kingdom,United Kingdom,Europe
+376,230,10,Small Business,Li Mcclain and King,10,80000,1989,Berkshire,ENG,England,GB,United Kingdom,United Kingdom,Europe
+446,141,8,Small Business,Johnson PLC,11,80000,1992,Berlin,HH,Hamburg,DE,Germany,Germany,Europe
+412,232,10,Small Business,Byrd Berger and Robinson,10,80000,1974,Birmingham,ENG,England,GB,United Kingdom,United Kingdom,Europe
+430,233,10,Small Business,Miller Peters and Walker,19,80000,2004,Bracknell,ENG,England,GB,United Kingdom,United Kingdom,Europe
+464,174,8,Small Business,Collins Martin and Maddox,17,80000,1991,Saarbrücken,SL,Saarland,DE,Germany,Germany,Europe
+176,170,8,Small Business,Fry-Moss,4,30000,1980,Münster,SL,Saarland,DE,Germany,Germany,Europe
+409,181,7,Small Business,Richardson Murray and Waller,8,30000,1979,Aujan Mournede,32,Gers,FR,France,France,Europe
+391,194,7,Small Business,Fisher Ltd,5,30000,1988,Paris,75,Seine (Paris),FR,France,France,Europe
+52,239,10,Small Business,Mcconnell Group,9,30000,1994,Gloucestershire,ENG,England,GB,United Kingdom,United Kingdom,Europe
+67,213,7,Small Business,Johnson-Smith,4,30000,1980,Verrieres Le Buisson,91,Essonne,FR,France,France,Europe
+70,244,10,Small Business,King Bowen and Rogers,3,30000,1985,London,ENG,England,GB,United Kingdom,United Kingdom,Europe
+394,278,10,Small Business,Rosario Group,4,30000,1980,York,ENG,England,GB,United Kingdom,United Kingdom,Europe
+615,158,8,Small Business,Cortez Ltd,3,30000,1985,Leipzig,NW,Nordrhein-Westfalen,DE,Germany,Germany,Europe
+658,1,9,Small Business,Dorsey-Thomas,5,30000,1980,Canoas,RS,Rio Grande do Sul,BR,Brazil,Brazil,South America
+14,167,8,Person,Taylor Drake,0,100000,2000,Frankfurt am Main,SL,Saarland,DE,Germany,Germany,Europe
+104,130,8,Person,Brandy Lewis,0,100000,1975,Duesseldorf,HE,Hessen,DE,Germany,Germany,Europe
+123,11,9,Person,Carol Payne,0,100000,2000,Salvador,BA,Bahia,BR,Brazil,Brazil,South America
+213,38,9,Person,Evan Duarte,0,100000,1975,Santos,SP,São Paulo,BR,Brazil,Brazil,South America
+232,228,10,Person,Brittany Archer,0,100000,2000,Basingstoke Hants,ENG,England,GB,United Kingdom,United Kingdom,Europe
+319,220,7,Person,Kenneth Solis,0,100000,2005,Bobigny,93,Seine Saint Denis,FR,France,France,Europe
+322,259,10,Person,Terry Smith,0,100000,1975,Milton Keynes,ENG,England,GB,United Kingdom,United Kingdom,Europe
+427,199,7,Small Business,Patton Chapman and Morales,20,100000,2004,Paris,75,Seine (Paris),FR,France,France,Europe
+428,157,8,Person,Hannah Reese MD,0,100000,2005,Hannover,NW,Nordrhein-Westfalen,DE,Germany,Germany,Europe
+536,165,8,Small Business,Miami Monster LLC,20,100000,2004,Berlin,SL,Saarland,DE,Germany,Germany,Europe
+537,14,9,Person,Peter West,0,100000,2005,Rio de Janeiro,RJ,Rio de Janeiro,BR,Brazil,Brazil,South America

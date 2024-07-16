@@ -1,0 +1,350 @@
+ProductKey,ProductSubcategoryKey,ProductName,CategoryName,SubcategoryName
+352,15,Product 1,Electronic,Android
+354,15,Product 2,Electronic,Android
+356,15,Product 3,Electronic,Android
+358,15,Product 4,Electronic,Android
+362,15,Product 5,Electronic,Android
+373,15,Product 6,Electronic,Android
+561,15,Product 7,Electronic,Android
+562,15,Product 8,Electronic,Android
+563,15,Product 9,Electronic,Android
+327,15,Product 10,Electronic,Android
+328,15,Product 11,Electronic,Android
+332,15,Product 12,Electronic,Android
+334,15,Product 13,Electronic,Android
+336,15,Product 14,Electronic,Android
+338,15,Product 15,Electronic,Android
+340,15,Product 16,Electronic,Android
+588,15,Product 17,Electronic,Android
+590,15,Product 18,Electronic,Android
+414,4,Product 19,Kitchen,Cofee Maker
+211,16,Product 20,Electronic,Cellphone
+240,16,Product 21,Electronic,Cellphone
+243,16,Product 22,Electronic,Cellphone
+246,16,Product 23,Electronic,Cellphone
+259,16,Product 24,Electronic,Cellphone
+260,16,Product 25,Electronic,Cellphone
+295,16,Product 26,Electronic,Cellphone
+440,16,Product 27,Electronic,Cellphone
+442,16,Product 28,Electronic,Cellphone
+238,16,Product 29,Electronic,Cellphone
+239,16,Product 30,Electronic,Cellphone
+241,16,Product 31,Electronic,Cellphone
+242,16,Product 32,Electronic,Cellphone
+245,16,Product 33,Electronic,Cellphone
+289,16,Product 34,Electronic,Cellphone
+294,16,Product 35,Electronic,Cellphone
+305,16,Product 36,Electronic,Cellphone
+308,16,Product 37,Electronic,Cellphone
+402,1,Product 38,Personal Care,Trimmer
+483,18,Product 39,Office Supply,Printer
+222,18,Product 40,Office Supply,Printer
+528,18,Product 41,Office Supply,Printer
+515,1,Product 42,Personal Care,Trimmer
+545,1,Product 43,Personal Care,Trimmer
+559,1,Product 44,Personal Care,Trimmer
+514,1,Product 45,Personal Care,Trimmer
+520,1,Product 46,Personal Care,Trimmer
+410,1,Product 47,Personal Care,Trimmer
+542,1,Product 48,Personal Care,Trimmer
+398,1,Product 49,Personal Care,Trimmer
+555,1,Product 50,Personal Care,Trimmer
+401,1,Product 51,Personal Care,Trimmer
+518,1,Product 52,Personal Care,Trimmer
+450,18,Product 53,Office Supply,Printer
+521,1,Product 54,Personal Care,Trimmer
+216,18,Product 55,Office Supply,Printer
+447,18,Product 56,Office Supply,Printer
+522,1,Product 57,Personal Care,Trimmer
+397,1,Product 58,Personal Care,Trimmer
+400,1,Product 59,Personal Care,Trimmer
+547,1,Product 60,Personal Care,Trimmer
+548,1,Product 61,Personal Care,Trimmer
+399,1,Product 62,Personal Care,Trimmer
+422,1,Product 63,Personal Care,Trimmer
+543,1,Product 64,Personal Care,Trimmer
+360,13,Product 65,Electronic,TV
+580,13,Product 66,Electronic,TV
+581,13,Product 67,Electronic,TV
+582,13,Product 68,Electronic,TV
+583,13,Product 69,Electronic,TV
+320,13,Product 70,Electronic,TV
+322,13,Product 71,Electronic,TV
+324,13,Product 72,Electronic,TV
+326,13,Product 73,Electronic,TV
+330,13,Product 74,Electronic,TV
+531,4,Product 75,Kitchen,Cofee Maker
+532,4,Product 76,Kitchen,Cofee Maker
+471,11,Product 77,Clothing,Pants
+472,11,Product 78,Clothing,Pants
+473,11,Product 79,Clothing,Pants
+353,17,Product 80,Electronic,Mac
+359,17,Product 81,Electronic,Mac
+361,17,Product 82,Electronic,Mac
+363,17,Product 83,Electronic,Mac
+371,17,Product 84,Electronic,Mac
+375,17,Product 85,Electronic,Mac
+377,17,Product 86,Electronic,Mac
+379,17,Product 87,Electronic,Mac
+564,17,Product 88,Electronic,Mac
+323,17,Product 89,Electronic,Mac
+325,17,Product 90,Electronic,Mac
+329,17,Product 91,Electronic,Mac
+333,17,Product 92,Electronic,Mac
+335,17,Product 93,Electronic,Mac
+339,17,Product 94,Electronic,Mac
+343,17,Product 95,Electronic,Mac
+587,17,Product 96,Electronic,Mac
+589,17,Product 97,Electronic,Mac
+556,4,Product 98,Kitchen,Cofee Maker
+448,18,Product 99,Office Supply,Printer
+408,1,Product 100,Personal Care,Trimmer
+552,1,Product 101,Personal Care,Trimmer
+517,1,Product 102,Personal Care,Trimmer
+468,5,Product 103,Clothing,Underwear
+469,5,Product 104,Clothing,Underwear
+470,5,Product 105,Clothing,Underwear
+481,9,Product 106,Clothing,Shirts
+482,9,Product 107,Clothing,Shirts
+218,9,Product 108,Clothing,Shirts
+219,9,Product 109,Clothing,Shirts
+462,5,Product 110,Clothing,Underwear
+463,5,Product 111,Clothing,Underwear
+464,5,Product 112,Clothing,Underwear
+465,5,Product 113,Clothing,Underwear
+466,5,Product 114,Clothing,Underwear
+467,5,Product 115,Clothing,Underwear
+403,1,Product 116,Personal Care,Trimmer
+546,1,Product 117,Personal Care,Trimmer
+310,17,Product 118,Electronic,Mac
+311,17,Product 119,Electronic,Mac
+312,17,Product 120,Electronic,Mac
+313,17,Product 121,Electronic,Mac
+314,17,Product 122,Electronic,Mac
+344,17,Product 123,Electronic,Mac
+345,17,Product 124,Electronic,Mac
+347,17,Product 125,Electronic,Mac
+350,17,Product 126,Electronic,Mac
+315,17,Product 127,Electronic,Mac
+316,17,Product 128,Electronic,Mac
+317,17,Product 129,Electronic,Mac
+318,17,Product 130,Electronic,Mac
+319,17,Product 131,Electronic,Mac
+560,17,Product 132,Electronic,Mac
+577,17,Product 133,Electronic,Mac
+578,17,Product 134,Electronic,Mac
+579,17,Product 135,Electronic,Mac
+342,17,Product 136,Electronic,Mac
+565,17,Product 137,Electronic,Mac
+566,17,Product 138,Electronic,Mac
+567,17,Product 139,Electronic,Mac
+568,17,Product 140,Electronic,Mac
+569,17,Product 141,Electronic,Mac
+570,17,Product 142,Electronic,Mac
+572,17,Product 143,Electronic,Mac
+586,17,Product 144,Electronic,Mac
+419,1,Product 145,Personal Care,Trimmer
+346,17,Product 146,Electronic,Mac
+348,17,Product 147,Electronic,Mac
+349,17,Product 148,Electronic,Mac
+351,17,Product 149,Electronic,Mac
+370,17,Product 150,Electronic,Mac
+372,17,Product 151,Electronic,Mac
+374,17,Product 152,Electronic,Mac
+378,17,Product 153,Electronic,Mac
+380,17,Product 154,Electronic,Mac
+364,17,Product 155,Electronic,Mac
+365,17,Product 156,Electronic,Mac
+366,17,Product 157,Electronic,Mac
+367,17,Product 158,Electronic,Mac
+382,17,Product 159,Electronic,Mac
+384,17,Product 160,Electronic,Mac
+386,17,Product 161,Electronic,Mac
+388,17,Product 162,Electronic,Mac
+390,17,Product 163,Electronic,Mac
+571,17,Product 164,Electronic,Mac
+584,17,Product 165,Electronic,Mac
+585,17,Product 166,Electronic,Mac
+596,17,Product 167,Electronic,Mac
+597,17,Product 168,Electronic,Mac
+598,17,Product 169,Electronic,Mac
+599,17,Product 170,Electronic,Mac
+600,17,Product 171,Electronic,Mac
+604,17,Product 172,Electronic,Mac
+527,4,Product 173,Kitchen,Cofee Maker
+551,4,Product 174,Kitchen,Cofee Maker
+404,1,Product 175,Personal Care,Trimmer
+553,2,Product 176,Personal Care,Electric Razor
+226,7,Product 177,Clothing,Jerseys
+227,7,Product 178,Clothing,Jerseys
+228,7,Product 179,Clothing,Jerseys
+229,7,Product 180,Clothing,Jerseys
+230,7,Product 181,Clothing,Jerseys
+231,7,Product 182,Clothing,Jerseys
+232,7,Product 183,Clothing,Jerseys
+233,7,Product 184,Clothing,Jerseys
+234,7,Product 185,Clothing,Jerseys
+235,7,Product 186,Clothing,Jerseys
+236,7,Product 187,Clothing,Jerseys
+237,7,Product 188,Clothing,Jerseys
+526,4,Product 189,Kitchen,Cofee Maker
+524,4,Product 190,Kitchen,Cofee Maker
+213,18,Product 191,Office Supply,Printer
+217,18,Product 192,Office Supply,Printer
+223,10,Product 193,Clothing,Vests
+224,10,Product 194,Clothing,Vests
+225,10,Product 195,Clothing,Vests
+459,6,Product 196,Clothing,Jackets
+460,6,Product 197,Clothing,Jackets
+461,6,Product 198,Clothing,Jackets
+445,8,Product 199,Clothing,Shorts
+453,8,Product 200,Clothing,Shorts
+454,8,Product 201,Clothing,Shorts
+455,8,Product 202,Clothing,Shorts
+394,2,Product 203,Personal Care,Electric Razor
+544,2,Product 204,Personal Care,Electric Razor
+525,4,Product 205,Kitchen,Cofee Maker
+533,4,Product 206,Kitchen,Cofee Maker
+423,4,Product 207,Kitchen,Cofee Maker
+279,4,Product 208,Kitchen,Cofee Maker
+449,18,Product 209,Office Supply,Printer
+420,4,Product 210,Kitchen,Cofee Maker
+391,4,Product 211,Kitchen,Cofee Maker
+393,4,Product 212,Kitchen,Cofee Maker
+396,4,Product 213,Kitchen,Cofee Maker
+411,4,Product 214,Kitchen,Cofee Maker
+603,4,Product 215,Kitchen,Cofee Maker
+485,18,Product 216,Office Supply,Printer
+212,18,Product 217,Office Supply,Printer
+221,18,Product 218,Office Supply,Printer
+478,18,Product 219,Office Supply,Printer
+220,18,Product 220,Office Supply,Printer
+275,3,Product 221,Kitchen,Blender
+276,3,Product 222,Kitchen,Blender
+418,3,Product 223,Kitchen,Blender
+430,3,Product 224,Kitchen,Blender
+492,3,Product 225,Kitchen,Blender
+496,3,Product 226,Kitchen,Blender
+497,3,Product 227,Kitchen,Blender
+499,3,Product 228,Kitchen,Blender
+500,3,Product 229,Kitchen,Blender
+263,3,Product 230,Kitchen,Blender
+265,3,Product 231,Kitchen,Blender
+267,3,Product 232,Kitchen,Blender
+271,3,Product 233,Kitchen,Blender
+273,3,Product 234,Kitchen,Blender
+281,3,Product 235,Kitchen,Blender
+287,3,Product 236,Kitchen,Blender
+502,3,Product 237,Kitchen,Blender
+503,3,Product 238,Kitchen,Blender
+507,3,Product 239,Kitchen,Blender
+253,3,Product 240,Kitchen,Blender
+254,3,Product 241,Kitchen,Blender
+257,3,Product 242,Kitchen,Blender
+262,3,Product 243,Kitchen,Blender
+264,3,Product 244,Kitchen,Blender
+266,3,Product 245,Kitchen,Blender
+270,3,Product 246,Kitchen,Blender
+272,3,Product 247,Kitchen,Blender
+286,3,Product 248,Kitchen,Blender
+412,3,Product 249,Kitchen,Blender
+355,14,Product 250,Electronic,WiFi
+357,14,Product 251,Electronic,WiFi
+368,14,Product 252,Electronic,WiFi
+369,14,Product 253,Electronic,WiFi
+376,14,Product 254,Electronic,WiFi
+573,14,Product 255,Electronic,WiFi
+574,14,Product 256,Electronic,WiFi
+575,14,Product 257,Electronic,WiFi
+576,14,Product 258,Electronic,WiFi
+321,14,Product 259,Electronic,WiFi
+331,14,Product 260,Electronic,WiFi
+337,14,Product 261,Electronic,WiFi
+341,14,Product 262,Electronic,WiFi
+381,14,Product 263,Electronic,WiFi
+383,14,Product 264,Electronic,WiFi
+385,14,Product 265,Electronic,WiFi
+387,14,Product 266,Electronic,WiFi
+389,14,Product 267,Electronic,WiFi
+591,14,Product 268,Electronic,WiFi
+592,14,Product 269,Electronic,WiFi
+593,14,Product 270,Electronic,WiFi
+594,14,Product 271,Electronic,WiFi
+595,14,Product 272,Electronic,WiFi
+605,14,Product 273,Electronic,WiFi
+606,14,Product 274,Electronic,WiFi
+534,4,Product 275,Kitchen,Cofee Maker
+557,4,Product 276,Kitchen,Cofee Maker
+395,1,Product 277,Personal Care,Trimmer
+554,1,Product 278,Personal Care,Trimmer
+417,3,Product 279,Kitchen,Blender
+429,3,Product 280,Kitchen,Blender
+433,3,Product 281,Kitchen,Blender
+434,3,Product 282,Kitchen,Blender
+435,3,Product 283,Kitchen,Blender
+436,3,Product 284,Kitchen,Blender
+512,3,Product 285,Kitchen,Blender
+549,3,Product 286,Kitchen,Blender
+558,3,Product 287,Kitchen,Blender
+255,3,Product 288,Kitchen,Blender
+258,3,Product 289,Kitchen,Blender
+409,3,Product 290,Kitchen,Blender
+424,3,Product 291,Kitchen,Blender
+426,3,Product 292,Kitchen,Blender
+427,3,Product 293,Kitchen,Blender
+428,3,Product 294,Kitchen,Blender
+511,3,Product 295,Kitchen,Blender
+513,3,Product 296,Kitchen,Blender
+280,3,Product 297,Kitchen,Blender
+415,3,Product 298,Kitchen,Blender
+421,3,Product 299,Kitchen,Blender
+493,3,Product 300,Kitchen,Blender
+504,3,Product 301,Kitchen,Blender
+505,3,Product 302,Kitchen,Blender
+506,3,Product 303,Kitchen,Blender
+509,3,Product 304,Kitchen,Blender
+510,3,Product 305,Kitchen,Blender
+488,7,Product 306,Clothing,Jerseys
+489,7,Product 307,Clothing,Jerseys
+490,7,Product 308,Clothing,Jerseys
+491,7,Product 309,Clothing,Jerseys
+501,1,Product 310,Personal Care,Trimmer
+484,18,Product 311,Office Supply,Printer
+290,12,Product 312,Electronic,PC
+292,12,Product 313,Electronic,PC
+298,12,Product 314,Electronic,PC
+299,12,Product 315,Electronic,PC
+300,12,Product 316,Electronic,PC
+306,12,Product 317,Electronic,PC
+309,12,Product 318,Electronic,PC
+439,12,Product 319,Electronic,PC
+441,12,Product 320,Electronic,PC
+288,12,Product 321,Electronic,PC
+293,12,Product 322,Electronic,PC
+296,12,Product 323,Electronic,PC
+297,12,Product 324,Electronic,PC
+304,12,Product 325,Electronic,PC
+307,12,Product 326,Electronic,PC
+494,12,Product 327,Electronic,PC
+495,12,Product 328,Electronic,PC
+498,12,Product 329,Electronic,PC
+256,4,Product 330,Kitchen,Cofee Maker
+285,4,Product 331,Kitchen,Cofee Maker
+550,4,Product 332,Kitchen,Cofee Maker
+480,18,Product 333,Office Supply,Printer
+477,18,Product 334,Office Supply,Printer
+479,18,Product 335,Office Supply,Printer
+214,18,Product 336,Office Supply,Printer
+215,18,Product 337,Office Supply,Printer
+474,8,Product 338,Clothing,Shorts
+475,8,Product 339,Clothing,Shorts
+476,8,Product 340,Clothing,Shorts
+487,18,Product 341,Office Supply,Printer
+446,18,Product 342,Office Supply,Printer
+456,10,Product 343,Clothing,Vests
+457,10,Product 344,Clothing,Vests
+458,10,Product 345,Clothing,Vests
+407,1,Product 346,Personal Care,Trimmer
+601,1,Product 347,Personal Care,Trimmer
+516,1,Product 348,Personal Care,Trimmer
+523,1,Product 349,Personal Care,Trimmer
