@@ -19,7 +19,7 @@ The final output will be a real-time dashboard connected to PostgreSQL, facilita
 - **Configure PostgreSQL:** Set up PostgreSQL as the central data warehouse.
 - **Create Tables:** Design and create tables to store raw data without any transformations.
 
-![Database Schema](https://drive.google.com/file/d/1A1sRVptX0-7vxtkiQsEMMCf1dh0CpKws/view?usp=drive_link)
+![Database Schema](https://drive.google.com/uc?export=view&id=1A1sRVptX0-7vxtkiQsEMMCf1dh0CpKws)
 
 ### 2. Data Ingestion
 - **Extract Data:** Gather data from various sources, including transactional systems and CSV files.
