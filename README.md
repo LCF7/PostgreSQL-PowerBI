@@ -18,6 +18,7 @@ The final output will be a real-time dashboard connected to PostgreSQL, facilita
 ### 1. Data Warehouse Setup
 - **Configure PostgreSQL:** Set up PostgreSQL as the central data warehouse.
 - **Create Tables:** Design and create tables to store raw data without any transformations.
+- 
 ![Database Schema](https://drive.google.com/uc?export=view&id=1A1sRVptX0-7vxtkiQsEMMCf1dh0CpKws)
 
 ### 2. Data Ingestion
@@ -33,6 +34,7 @@ The final output will be a real-time dashboard connected to PostgreSQL, facilita
 - **Connect to PostgreSQL:** Establish a connection between Power BI and the PostgreSQL database.
 - **Create Data Model:** Design a data model that includes relationships, calculated columns, and measures.
 - **Optimize Model:** Ensure the model is efficient and performs well with large datasets.
+- 
 ![Data Modeling](https://drive.google.com/uc?export=view&id=1caG1gSeWVgkQ7WcgfF0UcW8tZIfazT9o) 
 
 ### 5. Dashboard Development
