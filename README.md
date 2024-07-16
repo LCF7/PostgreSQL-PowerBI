@@ -39,7 +39,6 @@ The final output will be a real-time dashboard connected to PostgreSQL, facilita
 - **Design Dashboard:** Create an interactive dashboard in Power BI that provides key business metrics and insights.
 - **Real-time Updates:** Set up real-time data refresh to ensure the dashboard displays the most current data.
 - **User Interface:** Design an intuitive and user-friendly interface for stakeholders.
-![Data Modeling](https://drive.google.com/uc?export=view&id=1caG1gSeWVgkQ7WcgfF0UcW8tZIfazT9o)
 
 ![Data Modeling](https://drive.google.com/uc?export=view&id=1d9_QvCWrbdEemWYaEl962mzaHgMb9vx3) 
 
