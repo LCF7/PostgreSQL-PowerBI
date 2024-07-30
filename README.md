@@ -3,7 +3,7 @@
 ## Project Overview
 
 This project aims to develop a comprehensive data pipeline and business intelligence solution for an e-commerce platform. The goal is to create a  data warehouse in a PostgreSQL, perform necessary transformations, and create an analytical data model in Power BI. 
-The final output will be a real-time dashboard connected to PostgreSQL, facilitating advanced business analysis and decision-making.
+The final output will be a real-time dashboard connected to PostgreSQL, facilitating advanced business analysis and decision-making. Dummie data was used for this project
 
 ## Objectives
 
